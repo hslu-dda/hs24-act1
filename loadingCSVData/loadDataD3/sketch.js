@@ -1,6 +1,12 @@
 // DATA
 let countriesData = [];
-let dimensionsArray, economiesArray, scoresArray, historicScoresArray;
+let orderedCountries;
+let dimensionsArray,
+  economiesArray,
+  scoresArray,
+  historicScoresArray,
+  subdimensionsArray,
+  subdimensionsLabels;
 
 // Design
 let leftBorder = 150;
@@ -19,10 +25,12 @@ function preload() {
   economiesArray = loadD3CSV("data/economies_labels.csv");
   scoresArray = loadD3CSV("data/dimensions_scores.csv");
   historicScoresArray = loadD3CSV("data/dimensions_scores_historic.csv");
+  subdimensionsLabels = loadD3CSV("data/subdimensions_labels.csv");
+  subdimensionsArray = loadD3CSV("data/subdimensions_scores.csv");
 }
 
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth, 2000);
 
   // Looping through economies
   countriesData = economiesArray.map((economy) => {
@@ -40,6 +48,7 @@ function setup() {
       const dimensionData = {
         dimensionCode: dimension.key,
         dimensionName: dimension.label,
+        subdimensions: {},
         scores: {},
       };
 
@@ -61,6 +70,15 @@ function setup() {
         }
       });
 
+      subdimensionsArray.forEach((subdim) => {
+        const parentDimName = subdim.key.split("_")[0];
+        // if (subdim.economy === economy.key && parentDimName === dimension.key)
+
+        if (subdim.economy === economy.key && parentDimName === dimension.key) {
+          dimensionData.subdimensions[subdim.key] = parseFloat(subdim.score);
+        }
+      });
+
       countryData.dimensions.push(dimensionData);
     });
 
@@ -68,7 +86,14 @@ function setup() {
   });
   //console.log(JSON.stringify(countriesData, null, 2));
   console.log("countriesDatamm", countriesData);
-  textSize(16);
+  orderedCountries = orderCountriesByDimensionScore(
+    countriesData,
+    "TRANSPORT",
+    2024
+  );
+  console.log("orderd", orderedCountries);
+
+  textSize(14);
   noLoop();
 }
 
@@ -85,7 +110,7 @@ function draw() {
   let margin = textheight * 2;
   let cellpadding = 10;
 
-  countriesData.map((country) => {
+  orderedCountries.map((country) => {
     //console.log(country.country);
 
     push();
@@ -150,6 +175,7 @@ function draw() {
             if (debugView) line(0, 0, 0, cellheight);
 
             noStroke();
+            textSize(10);
             let textW = textWidth(key);
             text(key, -textW / 2, cellheight - cellpadding);
             // scale diameter
@@ -202,8 +228,47 @@ function draw() {
   });
 }
 
+//------------ HELPERS ----------------
+// const orderCountriesByDimensionScore = (data, dimensionCode, year) => {
+//   return data
+//     .map((country) => {
+//       const dimension = country.dimensions.find(
+//         (dim) => dim.dimensionCode === dimensionCode
+//       );
+//       return {
+//         ...country, // Spread the entire country object
+//         sortScore:
+//           dimension && dimension.scores[year] ? dimension.scores[year] : null,
+//       };
+//     })
+//     .filter((item) => item.sortScore !== null) // Remove countries without a score for this dimension/year
+//     .sort((a, b) => b.sortScore - a.sortScore) // Sort in descending order
+//     .map(({ sortScore, ...rest }) => rest); // Remove the temporary sortScore field
+// };
+
+// This function sorts countries based on their scores for a specific dimension and year
+const orderCountriesByDimensionScore = (data, dimensionCode, year) => {
+  // Create a new sorted array from the input data
+  return [...data].sort((a, b) => {
+    // Find the score for country 'a' for the given dimension and year
+    const scoreA =
+      a.dimensions.find((dim) => dim.dimensionCode === dimensionCode)?.scores[
+        year
+      ] ?? -Infinity;
+
+    // Find the score for country 'b' for the given dimension and year
+    const scoreB =
+      b.dimensions.find((dim) => dim.dimensionCode === dimensionCode)?.scores[
+        year
+      ] ?? -Infinity;
+
+    // Compare scores for descending order (highest score first)
+    return scoreB - scoreA;
+  });
+};
+
 function keyPressed() {
-  if (key == " ") {
+  if (key == "d") {
     console.log(stateTracker);
     stateTracker = (stateTracker + 1) % states.length;
     state = states[stateTracker];
