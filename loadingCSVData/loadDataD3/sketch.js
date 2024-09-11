@@ -214,6 +214,32 @@ function draw() {
 
           break;
       }
+
+      const subdimensionsCount = Object.keys(dimension.subdimensions).length;
+      // console.log("sub", subdimensionsCount);
+      let cW = cellwidth - 2 * cellpadding;
+      let cH = cellheight - 2 * cellpadding;
+      let partwidth = (cellwidth - 2 * cellpadding) / scoresCount;
+
+      push();
+      //translate(cellpadding, cellheight - cellpadding - 10);
+      Object.entries(dimension.subdimensions).forEach(([key, value], index) => {
+        noStroke();
+        textSize(6);
+        text(index + " -> " + value, 0, -index * 10);
+        let mappedVal = map(value, 0, 5, cellheight, 0);
+        fill(255, 0, 0, 50);
+        stroke(255, 0, 0);
+        line(
+          cellpadding + partwidth / 2 + partwidth + partwidth - 10,
+          mappedVal,
+          cellpadding + partwidth / 2 + partwidth + partwidth + 10,
+          mappedVal
+        );
+        fill(0);
+      });
+      pop();
+
       stroke(255, 0, 0);
       if (debugView) line(0, cellpadding, cellwidth, cellpadding);
       if (debugView)
