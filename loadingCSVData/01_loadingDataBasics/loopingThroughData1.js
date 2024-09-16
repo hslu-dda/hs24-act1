@@ -7,7 +7,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 600);
+  createCanvas(2000, 2000);
   console.log("Loaded data:", { economiesArray, dimensionsArray, scoresArray });
   noLoop();
 }
@@ -17,17 +17,12 @@ function draw() {
   textSize(12);
   let y = 20;
 
-  economiesArray.slice(0, 5).forEach((economy) => {
+  economiesArray.forEach((economy) => {
     text(`Country: ${economy.label}`, 10, y);
     y += 20;
 
     dimensionsArray.forEach((dimension) => {
-      let score = scoresArray.find(
-        (s) =>
-          s.economy === economy.key &&
-          s.key === dimension.key &&
-          s.year === "2024"
-      );
+      let score = scoresArray.find((s) => s.economy === economy.key && s.key === dimension.key && s.year === "2024");
 
       if (score) {
         text(`  ${dimension.label}: ${score.score}`, 20, y);

@@ -8,7 +8,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1000, 600);
+  createCanvas(2000, 2000);
   console.log("Loaded data:", {
     economiesArray,
     dimensionsArray,
@@ -31,39 +31,30 @@ function draw() {
   });
   y += 30;
 
-  economiesArray.slice(0, 5).forEach((economy) => {
+  economiesArray.forEach((economy) => {
     text(economy.label, 10, y + cellHeight / 2);
 
     dimensionsArray.forEach((dimension, dimIndex) => {
       let x = 150 + dimIndex * cellWidth;
-
       // Draw main dimension score
-      let mainScore = scoresArray.find(
-        (s) =>
-          s.economy === economy.key &&
-          s.key === dimension.key &&
-          s.year === "2024"
-      );
+      let mainScore = scoresArray.find((s) => s.economy === economy.key && s.key === dimension.key && s.year === 2024);
+      console.log(mainScore);
+
       if (mainScore) {
         let scoreHeight = map(parseFloat(mainScore.score), 0, 5, 0, cellHeight);
+        console.log(scoreHeight);
         fill(0, 0, 255, 100);
-        rect(x, y + cellHeight - scoreHeight, 50, scoreHeight);
+        rect(x, y + cellHeight - scoreHeight, 20, scoreHeight);
       }
 
       // Draw subdimension scores
       let subdimensions = subdimensionsArray.filter(
-        (s) =>
-          s.economy === economy.key && s.key.startsWith(dimension.key + "_")
+        (s) => s.economy === economy.key && s.key.startsWith(dimension.key + "_")
       );
       subdimensions.forEach((subdim, subIndex) => {
         let subScoreHeight = map(parseFloat(subdim.score), 0, 5, 0, cellHeight);
         fill(255, 0, 0, 100);
-        rect(
-          x + 60 + subIndex * 20,
-          y + cellHeight - subScoreHeight,
-          15,
-          subScoreHeight
-        );
+        rect(x + 25 + subIndex * 20, y + cellHeight - subScoreHeight, 15, subScoreHeight);
       });
     });
 

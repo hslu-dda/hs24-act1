@@ -2,12 +2,7 @@
 let countriesData = [];
 let sortedCountries;
 let sortedByMean;
-let dimensionsArray,
-  economiesArray,
-  scoresArray,
-  historicScoresArray,
-  subdimensionsArray,
-  subdimensionsLabels;
+let dimensionsArray, economiesArray, scoresArray, historicScoresArray, subdimensionsArray, subdimensionsLabels;
 
 // Design constants
 let DESIGN = {
@@ -26,6 +21,18 @@ let DESIGN = {
   showSubdimensions: true,
 };
 
+function getAbsoluteCoordinates(x, y) {
+  let pos = createVector(x, y);
+  return screenPosition(pos);
+}
+
+function screenPosition(point) {
+  let m = drawingContext.getTransform();
+  let tx = m.a * point.x + m.c * point.y + m.e;
+  let ty = m.b * point.x + m.d * point.y + m.f;
+  return createVector(tx / pixelDensity(), ty / pixelDensity());
+}
+
 function preload() {
   dimensionsArray = loadD3CSV("data/dimensions_labels.csv");
   economiesArray = loadD3CSV("data/economies_labels.csv");
@@ -42,34 +49,22 @@ function setup() {
 
   // Looping through economies
   countriesData = processData(); //
+
   console.log("countries data", countriesData);
 
   sortedCountries = sortCountriesByDimension(countriesData, "INVESTMENT", 2024);
 
-  sortedByMean2018 = sortCountriesByMeanDimensions(
-    countriesData,
-    ["TRADE", "INVESTMENT", "FINANCE"],
-    2018
-  );
+  sortedByMean2018 = sortCountriesByMeanDimensions(countriesData, ["TRADE", "INVESTMENT", "FINANCE"], 2018);
 
-  sortedByMean2024 = sortCountriesByMeanDimensions(
-    countriesData,
-    ["TRADE", "INVESTMENT", "FINANCE"],
-    2024
-  );
-  console.log(
-    width - DESIGN.windowLeftBorder - DESIGN.windowRightBorder,
-    countriesData[0].dimensions.length
-  );
-  let cw =
-    (width - DESIGN.windowLeftBorder - DESIGN.windowRightBorder) /
-    countriesData[0].dimensions.length;
+  sortedByMean2024 = sortCountriesByMeanDimensions(countriesData, ["TRADE", "INVESTMENT", "FINANCE"], 2024);
+  console.log(width - DESIGN.windowLeftBorder - DESIGN.windowRightBorder, countriesData[0].dimensions.length);
+  let cw = (width - DESIGN.windowLeftBorder - DESIGN.windowRightBorder) / countriesData[0].dimensions.length;
   console.log("cellwidth", DESIGN.cellWidth, cw);
 
   DESIGN.cellWidth = cw;
 
   textSize(14);
-  noLoop();
+  //noLoop();
 }
 
 function draw() {
@@ -187,6 +182,7 @@ class Dimension {
     this.scores = {};
     this.subdimensions = {};
     this.economy = economy;
+    this.hover = false;
   }
   addScore(year, score) {
     this.scores[year] = parseFloat(score);
@@ -201,8 +197,20 @@ class Dimension {
 
     line(0, 0, DESIGN.cellWidth, 0);
     noStroke();
-    fill(240);
+    fill(245);
     rect(0, 0, DESIGN.cellWidth, DESIGN.cellHeight);
+
+    let topLeft = getAbsoluteCoordinates(0, 0);
+    let bottomRight = getAbsoluteCoordinates(DESIGN.cellWidth, DESIGN.cellHeight);
+
+    this.hover = false;
+    if (mouseX > topLeft.x && mouseX < bottomRight.x && mouseY > topLeft.y && mouseY < bottomRight.y) {
+      //console.log("absolute", mouseX, topLeft.x);
+      // fill(255, 100, 100);
+      // rect(0, 0, DESIGN.cellWidth, DESIGN.cellHeight);
+      this.hover = true;
+    }
+
     noStroke(0);
     fill(255);
     rect(
@@ -224,38 +232,22 @@ class Dimension {
 
     if (DESIGN.debugView) stroke(0, 0, 0, 50);
     if (DESIGN.debugView) line(partWidth / 2, 0, partWidth / 2, innerHeigth);
-    if (DESIGN.debugView)
-      line(
-        partWidth + partWidth / 2,
-        0,
-        partWidth + partWidth / 2,
-        innerHeigth
-      );
-    if (DESIGN.debugView)
-      line(
-        2 * partWidth + partWidth / 2,
-        0,
-        2 * partWidth + partWidth / 2,
-        innerHeigth
-      );
+    if (DESIGN.debugView) line(partWidth + partWidth / 2, 0, partWidth + partWidth / 2, innerHeigth);
+    if (DESIGN.debugView) line(2 * partWidth + partWidth / 2, 0, 2 * partWidth + partWidth / 2, innerHeigth);
 
     let score2018 = map(this.scores[2018], 0, 5, innerHeigth, 0);
     let score2021 = map(this.scores[2021], 0, 5, innerHeigth, 0);
     let score2024 = map(this.scores[2024], 0, 5, innerHeigth, 0);
+
     stroke(100, 100, 255);
     line(partWidth / 2, score2018, partWidth + partWidth / 2, score2021);
-    line(
-      partWidth + partWidth / 2,
-      score2021,
-      2 * partWidth + partWidth / 2,
-      score2024
-    );
+    line(partWidth + partWidth / 2, score2021, 2 * partWidth + partWidth / 2, score2024);
 
     ellipse(partWidth / 2, score2018, 5);
     ellipse(partWidth + partWidth / 2, score2021, 5);
     ellipse(2 * partWidth + partWidth / 2, score2024, 5);
 
-    if (DESIGN.showSubdimensions) {
+    if (DESIGN.showSubdimensions && this.hover) {
       const subdimensionsCount = Object.keys(this.subdimensions).length;
       Object.entries(this.subdimensions).forEach(([key, value], index) => {
         let mappedVal = map(value, 0, 5, innerHeigth, 0);
@@ -269,13 +261,7 @@ class Dimension {
     textSize(10);
     fill(0);
     noStroke();
-    text(
-      this.label,
-      5,
-      5,
-      DESIGN.cellWidth - 2 * DESIGN.cellPadding,
-      DESIGN.cellHeight - 2 * DESIGN.cellPadding
-    );
+    text(this.label, 5, 5, DESIGN.cellWidth - 2 * DESIGN.cellPadding, DESIGN.cellHeight - 2 * DESIGN.cellPadding);
     pop();
   }
 }
@@ -285,16 +271,10 @@ const orderCountriesByDimensionScore = (data, dimensionCode, year) => {
   // Create a new sorted array from the input data
   return [...data].sort((a, b) => {
     // Find the score for country 'a' for the given dimension and year
-    const scoreA =
-      a.dimensions.find((dim) => dim.dimensionCode === dimensionCode)?.scores[
-        year
-      ] ?? -Infinity;
+    const scoreA = a.dimensions.find((dim) => dim.dimensionCode === dimensionCode)?.scores[year] ?? -Infinity;
 
     // Find the score for country 'b' for the given dimension and year
-    const scoreB =
-      b.dimensions.find((dim) => dim.dimensionCode === dimensionCode)?.scores[
-        year
-      ] ?? -Infinity;
+    const scoreB = b.dimensions.find((dim) => dim.dimensionCode === dimensionCode)?.scores[year] ?? -Infinity;
 
     // Compare scores for descending order (highest score first)
     return scoreB - scoreA;
@@ -307,9 +287,7 @@ function sortCountriesByDimension(data, dimensionKey, year) {
     const dimensionB = b.dimensions.find((d) => d.key === dimensionKey);
 
     if (!dimensionA || !dimensionB) {
-      console.warn(
-        `Dimension ${dimensionKey} not found for one or both countries`
-      );
+      console.warn(`Dimension ${dimensionKey} not found for one or both countries`);
       return 0;
     }
 
@@ -338,9 +316,7 @@ function calculateMeanScore(country, dimensionKeys, year) {
       totalScore += dimension.scores[year];
       countValidDimensions++;
     } else {
-      console.warn(
-        `Dimension ${dimensionKey} not found or has no 2024 score for country ${country.label}`
-      );
+      console.warn(`Dimension ${dimensionKey} not found or has no 2024 score for country ${country.label}`);
     }
   }
 
@@ -367,5 +343,9 @@ function keyPressed() {
     stateTracker = (stateTracker + 1) % states.length;
     state = states[stateTracker];
     redraw(); // Redraw the canvas once
+  }
+  if (key == "s") {
+    const jsonString = JSON.stringify(countriesData, null, 2);
+    saveJSON(countriesData, "compiled_data.json");
   }
 }
