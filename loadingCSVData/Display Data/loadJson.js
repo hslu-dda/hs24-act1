@@ -29,7 +29,7 @@ function screenPosition(point) {
 }
 
 function preload() {
-  loadD3JSON("compiled_data.json", function (data) {
+  loadD3JSON("compiled_data_2.json", function (data) {
     console.log("data", data);
     countriesData = data;
   });

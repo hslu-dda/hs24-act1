@@ -23,7 +23,7 @@ function setup() {
   console.log("countries data", countriesData);
 
   // Save JSON file
-  //saveJSON(countriesData, "compiled_data.json");
+  saveJSON(countriesData, "compiled_data.json");
   noLoop();
 }
 
