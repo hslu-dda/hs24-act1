@@ -22,8 +22,8 @@ function draw() {
     y += 20;
 
     dimensionsArray.forEach((dimension) => {
-      let score = scoresArray.find((s) => s.economy === economy.key && s.key === dimension.key && s.year === "2024");
-
+      let score = scoresArray.find((s) => s.economy == economy.key && s.key == dimension.key && s.year == "2024");
+      console.log(score);
       if (score) {
         text(`  ${dimension.label}: ${score.score}`, 20, y);
         y += 20;
