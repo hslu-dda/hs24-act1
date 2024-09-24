@@ -1,6 +1,11 @@
 // Global variables to store our data
-let dimensionsArray, economiesArray, scoresArray, historicScoresArray, subdimensionsArray, subdimensionsLabels;
-let indicatorsArray, indicatorsLabels, structureData;
+let dimensionsArray,
+  economiesArray,
+  scoresArray,
+  historicScoresArray,
+  subdimensionsArray,
+  subdimensionsLabels;
+let indicatorsArray, indicatorsLabels, indicatorsLevels, structureData;
 
 let countiresData;
 
@@ -16,6 +21,7 @@ function preload() {
   // Load indicator relared files
   indicatorsArray = loadD3CSV("data/indicators_scores.csv");
   indicatorsLabels = loadD3CSV("data/indicators_labels.csv");
+  indicatorsLevels = loadD3CSV("data/indicator_levels.csv");
   structureData = loadD3CSV("data/structure.csv");
 }
 
@@ -43,6 +49,31 @@ function keyPressed() {
 
 function processData() {
   const countries = [];
+
+  //clean indicatorsLevels
+  indicatorsLevels = indicatorsLevels.map(function (lvl) {
+    let bih = [lvl.BIH_FBIH, lvl.BIH_RS, lvl.BIH_STATE];
+    bih = bih.filter((v) => v != "NOT_AVAILABLE");
+
+    let bih_result;
+    if (bih.length) {
+      bih_result = bih.includes("NO") ? "NO" : "YES";
+    } else {
+      // all values were not_available
+      bih_result = "NOT_AVAILABLE";
+    }
+    lvl.BIH = bih_result;
+
+    let wb6 = [lvl.ALB, lvl.BIH, lvl.KOS, lvl.MKD, lvl.MNE, lvl.SRB];
+    //TODO CALCULATE MODUS
+    let wb6_result =
+      wb6.filter((x) => x == "NO" || x == "NOT_AVAILABLE").length > 3
+        ? "NO"
+        : "YES";
+    lvl.WB6_AVG = wb6_result;
+
+    return lvl;
+  });
 
   // Create country objects
   economiesArray.forEach((economy) => {
@@ -90,12 +121,15 @@ function processData() {
   // Add subdimensions to countries
   subdimensionsArray.forEach((subdim) => {
     const country = countries.find((c) => c.key === subdim.economy);
-    const dimension = country.dimensions.find((d) => subdim.key.startsWith(d.key));
+    const dimension = country.dimensions.find((d) =>
+      subdim.key.startsWith(d.key)
+    );
 
     const subdimKey = subdim.key;
     let subdimension = {
       key: subdimKey,
-      label: subdimensionsLabels.find((sl) => sl.key === subdimKey)?.label || "",
+      label:
+        subdimensionsLabels.find((sl) => sl.key === subdimKey)?.label || "",
       score: parseFloat(subdim.score),
       indicators: [],
     };
@@ -103,13 +137,24 @@ function processData() {
 
     const indicators = subdimensionIndicators[subdimKey] || [];
     indicators.forEach((indicatorKey) => {
-      const indicator = indicatorsArray.find((i) => i.key === indicatorKey && i.economy === subdim.economy);
+      const indicator = indicatorsArray.find(
+        (i) => i.key === indicatorKey && i.economy === subdim.economy
+      );
       if (indicator) {
+        let levels = indicatorsLevels.filter((l) => l.key == indicatorKey);
         subdimension.indicators.push({
           key: indicatorKey,
           score: parseFloat(indicator.score),
           economy: indicator.economy,
-          label: indicatorsLabels.find((il) => il.key === indicator.key)?.label || "",
+          levels: levels.map(function (lvl) {
+            return {
+              label: lvl.label,
+              status: lvl[indicator.economy],
+            };
+          }),
+          label:
+            indicatorsLabels.find((il) => il.key === indicator.key)?.label ||
+            "",
         });
       }
     });
