@@ -50,7 +50,7 @@ INVESTMENT_I04,INVESTMENT_QL04,Sustainability objectives are fully integrated in
 INVESTMENT_I05,INVESTMENT_QL05,"The investment promotion agency, or relevant body, regularly provide investment facilitation services. ",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 INVESTMENT_I05,INVESTMENT_QL05,The investment promotion agency occasionally takes action to streamline registration procedures and reduce unnecessary paperwork. ,YES,NO,NO,NO,YES,YES,YES,YES
 INVESTMENT_I05,INVESTMENT_QL05,Formal co-ordination mechanism is in place to adequately disseminate information and integrate investor feedback into future policies.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
-INVESTMENT_I05,INVESTMENT_QL05,“Silence is consent” clause exists. ,YES,NO,NO,NO,YES,NO,NO,NO
+INVESTMENT_I05,INVESTMENT_QL05,‚ÄúSilence is consent‚Äù clause exists. ,YES,NO,NO,NO,YES,NO,NO,NO
 INVESTMENT_I05,INVESTMENT_QL05,"The investment promotion agency, or relevant body is consistently implementing measures to simplify the business registration process. ",NO,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,NO
 INVESTMENT_I05,INVESTMENT_QL05,"The investment promotion agency, or relevant body, is systematically consulted on matters affecting investment policy in the economy. ",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 INVESTMENT_I05,INVESTMENT_QL05,"The investment promotion agency, or relevant body, is responsible for providing at least 80% of regulatory approvals and registration procedures to establish a business in the host economy.",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,NO,NO
@@ -62,7 +62,7 @@ INVESTMENT_I06,INVESTMENT_QL06,"The investment promotion agency, or relevant bod
 INVESTMENT_I06,INVESTMENT_QL06,"Investor incentives are provided following a cost-benefit analysis, although the results are not available to the public. ",YES,NO,NO,NO,NO,YES,NO,YES
 INVESTMENT_I06,INVESTMENT_QL06,There are sunset clauses in place. ,NO,NO,NO,NO,NO,YES,YES,YES
 INVESTMENT_I06,INVESTMENT_QL06,"Procedures and criteria for granting investor incentives are clear and transparent, although with a degree of limitation.",YES,NO,YES,NO,YES,YES,YES,YES
-INVESTMENT_I06,INVESTMENT_QL06,"The investment promotion agency, or relevant body, conducts ad hoc monitoring of investors’ obligations. ",YES,YES,YES,YES,NO,YES,YES,YES
+INVESTMENT_I06,INVESTMENT_QL06,"The investment promotion agency, or relevant body, conducts ad hoc monitoring of investors‚Äô obligations. ",YES,YES,YES,YES,NO,YES,YES,YES
 INVESTMENT_I06,INVESTMENT_QL06,"Investor incentives are regularly subject to a cost-benefit analysis, the results of which are available to the public. ",NO,NO,NO,NO,NO,NO,YES,NO
 INVESTMENT_I06,INVESTMENT_QL06,Renewal of investor incentives is granted with appropriate scrutiny.  ,NO,NO,NO,NO,NO,YES,YES,YES
 INVESTMENT_I06,INVESTMENT_QL06,Cost-Benefit analysis takes into account social and environmental impact of incentives-motivated investment. ,YES,NO,NO,NO,NO,YES,NO,YES
@@ -72,7 +72,7 @@ INVESTMENT_I07,INVESTMENT_QL07,"There is a strategic policy framework governing 
 *Law has been adopted but is still pending approval",YES,NO,YES,YES,YES*,YES,NO,YES
 INVESTMENT_I07,INVESTMENT_QL07,"Other sustainability strategies take investment into account on an ad hoc basis. 
 ",YES,YES,YES,YES,YES,YES,YES,YES
-INVESTMENT_I07,INVESTMENT_QL07,"The national strategic policy framework for sustainable investment addresses investment-related objectives linked to the Sustainable Development Goals  
+INVESTMENT_I07,INVESTMENT_QL07,"The national strategic policy framework for sustainable investment addresses investment-related objectives linked to the Sustainable Development Goals¬† 
 ",YES,NO,YES,NO,YES,YES,NO,YES
 INVESTMENT_I07,INVESTMENT_QL07,Implementation responsibilities are clearly defined between national and sub-national institutions. ,NO,NO,NO,NO,NO,YES,NO,NO
 INVESTMENT_I07,INVESTMENT_QL07,"Formal coordination mechanisms with non-government stakeholders, including the private sector and civil society are in place.",YES,YES,YES,YES,YES,YES,NO,YES
@@ -86,7 +86,7 @@ INVESTMENT_I08,INVESTMENT_QL08,Financial and technical supports for sustainable 
 INVESTMENT_I08,INVESTMENT_QL08,Financial and technical supports for sustainable investment contain sunset clauses or other time limitation mechanisms. ,YES,NO,NO,NO,NO,YES,YES,YES
 INVESTMENT_I08,INVESTMENT_QL08,"The government conducts regular cost and benefits analysis of the supports considering environmental and social aspects, although the results are not available to the public. ",YES,NO,YES,NO,YES,NO,YES,YES
 INVESTMENT_I08,INVESTMENT_QL08,Financial and technical supports for sustainable investment address market failures linked to sustainable investment aspects of the Sustainable Development Goals. ,NO,NO,YES,NO,YES,YES,YES,YES
-INVESTMENT_I08,INVESTMENT_QL08,There is consistent and regular monitoring of the recipients’ compliance with eligibility criteria and related obligations. ,NO,NO,NO,NO,YES,YES,YES,YES
+INVESTMENT_I08,INVESTMENT_QL08,There is consistent and regular monitoring of the recipients‚Äô compliance with eligibility criteria and related obligations. ,NO,NO,NO,NO,YES,YES,YES,YES
 INVESTMENT_I08,INVESTMENT_QL08,The duration of financial and technical supports takes into account the maturity of the market. ,NO,NO,NO,NO,YES,NO,NO,YES
 INVESTMENT_I08,INVESTMENT_QL08,The results of the cost-benefit analysis are publicly available.    ,NO,NO,NO,NO,YES,NO,YES,YES
 INVESTMENT_I08,INVESTMENT_QL08,Financial or technical supports for sustainable investment are adjusted based on monitoring and evaluation results. ,NO,NO,NO,NO,NO,NO,NO,NO
@@ -98,7 +98,7 @@ TRADE_I01,TRADE_QL01,The Ministry in charge of trade holds consultations on trad
 TRADE_I01,TRADE_QL01,There is a formal inter-ministerial consultation mechanism in place for trade policy formulation. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I01,TRADE_QL01,Inter-ministerial consultations are conducted at all stages of policymaking. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I01,TRADE_QL01,The results of inter-ministerial consultations are translated into future policy initiatives. ,NO,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,NO,YES
-TRADE_I01,TRADE_QL01,Stakeholders’ consultations are conducted at all stages of policymaking. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
+TRADE_I01,TRADE_QL01,Stakeholders‚Äô consultations are conducted at all stages of policymaking. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I01,TRADE_QL01,Trade policy is designed to have concrete goals to improve trade performance. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I01,TRADE_QL01,The coordination mechanism for trade policy formulation is consistently monitored and evaluated. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I01,TRADE_QL01,The evaluation results are considered in future policy design.   ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,NO,YES
@@ -113,7 +113,7 @@ TRADE_I02,TRADE_QL02,"The Ministry in charge of trade publishes timelines, goals
 TRADE_I02,TRADE_QL02,"Analysis, impact assessment results and reasoning behind regulatory decisions and other relevant material, is publicly available. ",YES,YES,NO,YES,YES,YES,YES,YES
 TRADE_I02,TRADE_QL02,A permanent advisory body has been established including a wide array of stakeholders. ,YES,NO,NO,NO,YES,YES,NO,YES
 TRADE_I02,TRADE_QL02,Public-private consultation mechanism is regularly evaluated to ensure transparency and objectivity. ,YES,NO,NO,YES,YES,NO,YES,YES
-TRADE_I02,TRADE_QL02,Consultations regarding trade measures are open and mandatory to all affected groups and aim to measure the policies’ impact and cost-effectiveness.,YES,NO,YES,YES,YES,YES,NO,YES
+TRADE_I02,TRADE_QL02,Consultations regarding trade measures are open and mandatory to all affected groups and aim to measure the policies‚Äô impact and cost-effectiveness.,YES,NO,YES,YES,YES,YES,NO,YES
 TRADE_I02,TRADE_QL02,All comments on draft legislation receive timely feedback. ,YES,YES,YES,YES,NO,YES,YES,YES
 TRADE_I02,TRADE_QL02,Environmental stakeholders are included in public-private consultations.,YES,YES,NO,NO,YES,NO,NO,NO
 TRADE_I03,TRADE_QL03,There is dedicated digital trade law in place. ,YES,YES,YES,NO,YES,YES,YES,YES
@@ -123,7 +123,7 @@ TRADE_I03,TRADE_QL03,"The government collects data on digital trade, although to
 TRADE_I03,TRADE_QL03,National and sub-national institutions have a formal co-ordination mechanism in place to implement digital trade policy and programmes. ,NO,YES,NO,NO,YES,NO,YES,YES
 TRADE_I03,TRADE_QL03,The public has the means to influence policy design and implementation. ,YES,YES,NO,YES,YES,YES,YES,YES
 TRADE_I03,TRADE_QL03,The digital trade law is aligned with national policy documents governing digital aspects of the economy. ,YES,NO,NO,NO,YES,YES,YES,YES
-TRADE_I03,TRADE_QL03,Programmes and policies relating to digital trade are fully funded from the government’s budget.   ,NO,NO,NO,NO,NO,NO,NO,NO
+TRADE_I03,TRADE_QL03,Programmes and policies relating to digital trade are fully funded from the government‚Äôs budget.   ,NO,NO,NO,NO,NO,NO,NO,NO
 TRADE_I03,TRADE_QL03,Programmes and initiatives related to digital trade are evaluated from the angle of output effectiveness and efficiency. ,YES,NO,NO,NO,YES,YES,YES,YES
 TRADE_I03,TRADE_QL03,Digital trade programmes are subject to regular monitoring and evaluation by independent agencies.   ,NO,NO,NO,NO,NO,NO,NO,NO
 TRADE_I03,TRADE_QL03,Results of the monitoring and evaluation activities are taken into account in future policy design. ,YES,NO,NO,NO,YES,YES,YES,YES
@@ -150,7 +150,7 @@ TRADE_I05,TRADE_QL05,SMEs which are established exporters benefit from targeted 
 TRADE_I05,TRADE_QL05,There is a formal co-ordination mechanism with relevant trade-support institutions.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,YES,YES
 TRADE_I05,TRADE_QL05,"The export promotion agency is actively targeting larger firms, which have not started exporting yet. ",NO,YES,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,YES
 TRADE_I05,TRADE_QL05,The export promotion agency has operational autonomy. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,YES,YES
-TRADE_I05,TRADE_QL05,The entire territory of the economy is covered under the export promotion agency’s work programme. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
+TRADE_I05,TRADE_QL05,The entire territory of the economy is covered under the export promotion agency‚Äôs work programme. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I05,TRADE_QL05,The export promotion agency is regularly monitored. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRADE_I05,TRADE_QL05,Support for environmental initiatives is actively offered by the export promotion agency.,NO,YES,NOT_AVAILABLE,NOT_AVAILABLE,NO,YES,NO,NO
 TRADE_I05,TRADE_QL05,Priority is given to companies offering sustainable and environmentally-friendly goods and services. ,NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,NO
@@ -165,7 +165,7 @@ TRADE_I06,TRADE_QL06,Companies from the entire economy are eligible to benefit f
 TRADE_I06,TRADE_QL06,The government supports exporters in conforming to international standards in Export markets. ,YES,YES,NO,YES,NO,YES,YES,YES
 TRADE_I06,TRADE_QL06,Export promotion programmes are subject to an independent review. ,NO,YES,YES,YES,NO,NO,NO,NO
 TRADE_I06,TRADE_QL06,Financial support within the context of export promotion programmes is monitored through a dedicated mechanism. ,YES,YES,YES,YES,YES,YES,YES,YES
-TRADE_I06,TRADE_QL06,The companies pay a fee for the export promotion agency’s services. ,NO,YES,YES,YES,NO,NO,NO,NO
+TRADE_I06,TRADE_QL06,The companies pay a fee for the export promotion agency‚Äôs services. ,NO,YES,YES,YES,NO,NO,NO,NO
 TRADE_I06,TRADE_QL06,Export promotion programmes in place promote environmental objectives and exporting environmentally friendly goods and services.,NO,NO,NO,YES,NO,YES,NO,NO
 FINANCE_I01,FINANCE_QL01,A legal framework for banking regulation is in place. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 FINANCE_I01,FINANCE_QL01,A banking supervision authority is in place. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
@@ -178,26 +178,26 @@ FINANCE_I01,FINANCE_QL01,"The regulation differentiates between different types 
 *Partially",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES*,NO
 FINANCE_I01,FINANCE_QL01,"A set of well-defined rules determines an asset's ownership and how conflicts or related competing interests are resolved. 
 *Partially",YES,NOT_AVAILABLE,NO,YES,YES,YES,YES,YES
-FINANCE_I01,FINANCE_QL01,"The legal framework’s quality and accuracy in the banking industry undergo periodic evaluations, with corrective actions as needed.",YES,NOT_AVAILABLE,YES,YES,NO,YES,NO,NO
+FINANCE_I01,FINANCE_QL01,"The legal framework‚Äôs quality and accuracy in the banking industry undergo periodic evaluations, with corrective actions as needed.",YES,NOT_AVAILABLE,YES,YES,NO,YES,NO,NO
 FINANCE_I02,FINANCE_QL02,"A cadastre is in place, with compulsory and systematic property registration.",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 FINANCE_I02,FINANCE_QL02,The cadastre is publicly available online.,NO,YES,NOT_AVAILABLE,NOT_AVAILABLE,NO,YES,YES,YES
 FINANCE_I02,FINANCE_QL02,"The ownership of pledges on both registered fixed and non-fixed assets is fully documented and publicly available online.
 ",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,YES
 FINANCE_I02,FINANCE_QL02,"A legal framework for credit information services is in place.
 *Not yet adopted but under development. ",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES*,YES,YES
-FINANCE_I02,FINANCE_QL02,"The legal framework for credit information ensures a fair collection of credit-related data, follows specific retention periods, and provides access to this information to relevant parties  .",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
+FINANCE_I02,FINANCE_QL02,"The legal framework for credit information ensures a fair collection of credit-related data, follows specific retention periods, and provides access to this information to relevant parties¬†¬†.",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 FINANCE_I02,FINANCE_QL02,Data protection legislation for credit information provides individuals with rights and control over their personal data.,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
-FINANCE_I02,FINANCE_QL02,"Collected credit information data is comprehensive, updated and made available to credit institutions and the public  .",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,NO
+FINANCE_I02,FINANCE_QL02,"Collected credit information data is comprehensive, updated and made available to credit institutions and the public¬†¬†.",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,NO
 FINANCE_I02,FINANCE_QL02,"Measures preventing unauthorised access, destruction, loss, or misuse of credit information data are in place.",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 FINANCE_I02,FINANCE_QL02,The legal framework on credit information services specifies procedures for correcting mistakes in credit reports and dispute resolution mechanisms.,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
-FINANCE_I02,FINANCE_QL02,"The legal framework’s quality and accuracy in the registration and information systems undergo periodic evaluations, with corrective actions as needed.",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,YES,NO,NO
+FINANCE_I02,FINANCE_QL02,"The legal framework‚Äôs quality and accuracy in the registration and information systems undergo periodic evaluations, with corrective actions as needed.",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,YES,NO,NO
 FINANCE_I03,FINANCE_QL03,"An analysis identifying and addressing the obstacles to banking finance inclusion has been conducted.
 *Not yet adopted but under development",NO,NOT_AVAILABLE,NO,NO,NO,YES,YES,YES*
 FINANCE_I03,FINANCE_QL03,A legal framework for microfinance activities is in place.,YES,NOT_AVAILABLE,YES,YES,YES,YES,NO,NO
 FINANCE_I03,FINANCE_QL03,Competent authorities supervise microfinance activities.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,NO
 FINANCE_I03,FINANCE_QL03,The government provides access to information and services on microfinance for SMEs.,YES,NOT_AVAILABLE,NO,YES,NO,NO,NO,NO
 FINANCE_I03,FINANCE_QL03,The government regulates the interest rates charged by microfinance facilities.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-FINANCE_I03,FINANCE_QL03,Microfinance facilities can collect deposits  .,NO,NOT_AVAILABLE,YES,NO,YES,NO,NO,NO
+FINANCE_I03,FINANCE_QL03,Microfinance facilities can collect deposits¬†¬†.,NO,NOT_AVAILABLE,YES,NO,YES,NO,NO,NO
 FINANCE_I03,FINANCE_QL03,Credit guarantee schemes (CGSs) promoting responsible lending practices and providing targeted support are in place.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 FINANCE_I03,FINANCE_QL03,"CSGs undergo periodic evaluations, with corrective actions as needed.",NO,NOT_AVAILABLE,YES,YES,YES,NO,NO,NO
 FINANCE_I04,FINANCE_QL04,Access to equity markets: A legal framework on the stock market is in place.,YES,NOT_AVAILABLE,YES,YES,NO,YES,YES,YES
@@ -231,7 +231,7 @@ FINANCE_I05,FINANCE_QL05,"Competent authorities supervise private equity activit
 FINANCE_I05,FINANCE_QL05,"Private equity and VC investment must adhere to special licensing norms, solvency requirements, accounting standards, and investment regulations.",NO,NOT_AVAILABLE,NO,NO,YES,NO,YES,YES
 FINANCE_I05,FINANCE_QL05,Private equity and VC investment are not restricted by any regulatory framework from functioning as limited liability entities.,NO,NOT_AVAILABLE,NO,YES,NO,NO,NO,NO
 FINANCE_I05,FINANCE_QL05,Competent authorities supervise Business Angel Networks (BAN).,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-FINANCE_I05,FINANCE_QL05,The legal framework’s quality and accuracy on private equity undergo regular reviews.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+FINANCE_I05,FINANCE_QL05,The legal framework‚Äôs quality and accuracy on private equity undergo regular reviews.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 FINANCE_I05,FINANCE_QL05,Tax incentives aimed at encouraging VC investment and BAN are in place.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 FINANCE_I05,FINANCE_QL05,Regulatory incentives aimed at encouraging VC investment and BAN are in place.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 FINANCE_I05,FINANCE_QL05,Policies providing infrastructure to establish VC funds and BAN are in place.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
@@ -243,14 +243,14 @@ FINANCE_I06,FINANCE_QL06,Factoring: Safeguard measures are in place to protect t
 FINANCE_I06,FINANCE_QL06,Factoring:Tax treatment incentivises the use of factoring.,NO,NOT_AVAILABLE,YES,NO,NO,NO,NO,NO
 FINANCE_I06,FINANCE_QL06,"Factoring: The legal framework has been completely put into action, and the institutional responsibilities have been clearly outlined.",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 FINANCE_I06,FINANCE_QL06,Factoring: The government endorses electronic platforms that function as intermediaries during the factoring process and offer aid and guidance to SMEs.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-FINANCE_I06,FINANCE_QL06,"Factoring: Periodic reviews are conducted on the legal framework’s quality and accuracy for factoring, with corrective actions taken, as needed.",YES,NOT_AVAILABLE,NO,YES,NO,YES,NO,YES
+FINANCE_I06,FINANCE_QL06,"Factoring: Periodic reviews are conducted on the legal framework‚Äôs quality and accuracy for factoring, with corrective actions taken, as needed.",YES,NOT_AVAILABLE,NO,YES,NO,YES,NO,YES
 FINANCE_I06,FINANCE_QL06,Leasing: A legal framework on leasing is in place.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 FINANCE_I06,FINANCE_QL06,"Leasing: The legal framework on leasing provides clear rules for repossession, promotes transparency, and ensures the protection of the interests of lessors and lessees.",YES,NOT_AVAILABLE,YES,NO,NO,YES,YES,YES
 FINANCE_I06,FINANCE_QL06,"Leasing: Tax treatment incentivises the use of leasing. 
 *Partially",NO,NOT_AVAILABLE,YES*,NO,NO,NO,NO,NO
 FINANCE_I06,FINANCE_QL06,"Leasing: The legal framework has been implemented, and the institutional responsibilities have been clearly outlined.",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 FINANCE_I06,FINANCE_QL06,Leasing: The government strategically expands the sectoral concentration of the leasing market to foster its development. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-FINANCE_I06,FINANCE_QL06,"Leasing: Periodic reviews are conducted on the legal framework’s quality and accuracy for leasing, with corrective actions taken, as needed.",YES,NOT_AVAILABLE,NO,YES,NO,YES,NO,NO
+FINANCE_I06,FINANCE_QL06,"Leasing: Periodic reviews are conducted on the legal framework‚Äôs quality and accuracy for leasing, with corrective actions taken, as needed.",YES,NOT_AVAILABLE,NO,YES,NO,YES,NO,NO
 FINANCE_I07,FINANCE_QL07,Digital payment and e-money services: A legal framework on digital payment and e-money services are in place.,YES,NOT_AVAILABLE,NO,YES,YES,YES,YES,YES
 FINANCE_I07,FINANCE_QL07,Digital payment and e-money services: Digital banking and payment options are supervised by a competent authority.,YES,NOT_AVAILABLE,NO,YES,YES,YES,YES,YES
 FINANCE_I07,FINANCE_QL07,Digital payment and e-money services: Transactions of digital payment service providers are settled in real-time with a Real-Time Gross Settlement (RTGS) system.,YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
@@ -262,8 +262,8 @@ FINANCE_I07,FINANCE_QL07,"Digital payment and e-money services: The licensing fr
 *Under development",YES,NOT_AVAILABLE,NO,NO,YES*,YES,YES,YES
 FINANCE_I07,FINANCE_QL07,"Digital payment and e-money services: Banks and non-bank financial institutions have access to regulated digital identification options to verify identities. 
 *Not yet adopted but under development",YES,NOT_AVAILABLE,NO,NO,YES,YES*,YES,YES
-FINANCE_I07,FINANCE_QL07,Digital payment and e-money services: A centralized digital platform using data pulled from individual bank’s systems existfor supervisory authorities.,NO,NOT_AVAILABLE,NO,NO,NO,YES,NO,NO
-FINANCE_I07,FINANCE_QL07,"Digital payment and e-money services: Periodic reviews are conducted on the legal framework’s quality and accuracy for digital payment and e-money services, with corrective actions as needed.",YES,NOT_AVAILABLE,NO,NO,YES,YES,NO,YES
+FINANCE_I07,FINANCE_QL07,Digital payment and e-money services: A centralized digital platform using data pulled from individual bank‚Äôs systems existfor supervisory authorities.,NO,NOT_AVAILABLE,NO,NO,NO,YES,NO,NO
+FINANCE_I07,FINANCE_QL07,"Digital payment and e-money services: Periodic reviews are conducted on the legal framework‚Äôs quality and accuracy for digital payment and e-money services, with corrective actions as needed.",YES,NOT_AVAILABLE,NO,NO,YES,YES,NO,YES
 FINANCE_I07,FINANCE_QL07,"Crowdfunding: A legal framework on crowdfunding is in place.
 *Not yet adopted but under development",NO,NOT_AVAILABLE,NO,NO,NO,YES*,NO,YES*
 FINANCE_I07,FINANCE_QL07,Crowdfunding: The supervision of crowdfunding services is under the responsibility of a competent authority.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
@@ -271,7 +271,7 @@ FINANCE_I07,FINANCE_QL07,Crowdfunding: Both debt crowdfunding and equity crowdfu
 FINANCE_I07,FINANCE_QL07,"Crowdfunding: The legal framework for crowdfunding services sets the rules and requirements that crowdfunding platforms must adhere to, ensuring transparency, investor protection, and the integrity of the crowdfunding ecosystem.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 FINANCE_I07,FINANCE_QL07,Crowdfunding: Crowdfunding service providers must disclose financial risks and charges to investors.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 FINANCE_I07,FINANCE_QL07,Crowdfunding: The legal framework aligns with the Regulation on European Crowdfunding Service Providers (ECSP) for business ((EU) 2020/1503).,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-FINANCE_I07,FINANCE_QL07,"Crowdfunding: Periodic reviews are conducted on the legal framework’s quality and accuracy for crowdfunding, with corrective actions as needed.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+FINANCE_I07,FINANCE_QL07,"Crowdfunding: Periodic reviews are conducted on the legal framework‚Äôs quality and accuracy for crowdfunding, with corrective actions as needed.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 FINANCE_I08,FINANCE_QL08,The use of financing through blockchain technology is allowed.,YES,NOT_AVAILABLE,NO,YES,YES,YES,YES,YES
 FINANCE_I08,FINANCE_QL08,"A legal framework for financing through blockchain technology is in place.
 *Not yet adopted but under development",YES,NOT_AVAILABLE,NO,YES*,YES*,YES*,YES,YES
@@ -281,7 +281,7 @@ FINANCE_I08,FINANCE_QL08,"Regulations pertaining to financing through blockchain
 FINANCE_I08,FINANCE_QL08,The legal framework for combating money laundering and terrorism financing aligns with the EU AMLD5.,YES,NOT_AVAILABLE,NO,YES,NO,YES,YES,YES
 FINANCE_I08,FINANCE_QL08,Financing through blockchain technology activities is supervised by a central authority.  ,YES,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
 FINANCE_I08,FINANCE_QL08,"The legal framework on financing through blockchain technology covers the regulation of cryptocurrencies, guidelines for conducting Initial Coin Offerings (ICOs), and rules pertaining to the tokenization of assets.",YES,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
-FINANCE_I08,FINANCE_QL08," Periodic reviews are conducted on the legal framework’s quality and accuracy for financing through blockchain technology, with corrective actions as needed.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+FINANCE_I08,FINANCE_QL08," Periodic reviews are conducted on the legal framework‚Äôs quality and accuracy for financing through blockchain technology, with corrective actions as needed.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 TAX_I01,TAX_QL01,Tax incentives are associated with clear policy goals.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I01,TAX_QL01,Tax incentives have clear implementation instructions specifying when they become effective.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I01,TAX_QL01,Tax incentives have well-defined and transparent eligibility criteria.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
@@ -305,7 +305,7 @@ TAX_I02,TAX_QL02,The economy is assessing the impact of the substance-based inco
 TAX_I03,TAX_QL03,Some analysis on the impact of the PIT system and SSCs on labour market outcomes has been carried out.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I03,TAX_QL03,The economy systematically and continuously analyses the impact of the PIT system and SSCs on labour market outcomes using tax and labour market microdata.,YES,NOT_AVAILABLE,YES,YES,NO,YES,YES,YES
 TAX_I03,TAX_QL03,The distributional impact of the PIT and SSC system is analysed.,NO,NOT_AVAILABLE,YES,YES,NO,NO,YES,YES
-TAX_I03,TAX_QL03,"The economy has used tax and labour market data to analyse the impact of the PIT system and SSCs on informal employment, women’s labour force participation, and youth unemployment.",NO,NOT_AVAILABLE,NO,YES,NO,YES,YES,NO
+TAX_I03,TAX_QL03,"The economy has used tax and labour market data to analyse the impact of the PIT system and SSCs on informal employment, women‚Äôs labour force participation, and youth unemployment.",NO,NOT_AVAILABLE,NO,YES,NO,YES,YES,NO
 TAX_I03,TAX_QL03,"The economy analyses the impact of structural trends, such as population ageing and migration on PIT revenues and on the sustainability of the social protection system.",NO,NOT_AVAILABLE,NO,NO,NO,NO,YES,NO
 TAX_I03,TAX_QL03,The economy has implemented the OECD Automatic Exchange of Information (AEOI) standards and is using the data for tax policy and compliance purposes.,YES,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 TAX_I03,TAX_QL03,Microdata is used to compare the statutory tax burden to the effective tax rate paid by taxpayers across the income distribution.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
@@ -346,12 +346,12 @@ TAX_I08,TAX_QL08,Tax audits are carried out by a specific tax audit division. ,Y
 TAX_I08,TAX_QL08,There is a designated tax audit unit or division. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I08,TAX_QL08,The tax administration uses a risk-based audit selection system. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I08,TAX_QL08,"The tax audit unit will apply different types of audits, depending on taxpayer characteristics. ",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
-TAX_I08,TAX_QL08,The economy has a large taxpayers’ unit to oversee the largest taxpayers. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
+TAX_I08,TAX_QL08,The economy has a large taxpayers‚Äô unit to oversee the largest taxpayers. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I08,TAX_QL08,A legal framework exists that protects the rights of the taxpayers in tax compliance rulings.  ,YES,NOT_AVAILABLE,YES,YES,YES,NO,NO,YES
 TAX_I08,TAX_QL08,"The tax audit unit/division is regularly monitored, and this monitoring has led to reforms in the administration. ",YES,NOT_AVAILABLE,YES,YES,YES,NO,YES,YES
-TAX_I08,TAX_QL08,The economy conducts regular surveys that measure taxpayers’ satisfaction with available services. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
+TAX_I08,TAX_QL08,The economy conducts regular surveys that measure taxpayers‚Äô satisfaction with available services. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I09,TAX_QL09,There is legislation in place that gives the tax authority a distinct legal status with clearly defined legal responsibilities and duties. ,YES,NOT_AVAILABLE,NO,NO,YES,YES,NO,YES
-TAX_I09,TAX_QL09,The tax authority’s operational budget is either independent of annual budgeting processes or is derived from a fixed share of tax revenues. ,NO,NOT_AVAILABLE,NO,NO,YES,NO,YES,NO
+TAX_I09,TAX_QL09,The tax authority‚Äôs operational budget is either independent of annual budgeting processes or is derived from a fixed share of tax revenues. ,NO,NOT_AVAILABLE,NO,NO,YES,NO,YES,NO
 TAX_I09,TAX_QL09,There are whistle blower protections in place to protect staff. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I09,TAX_QL09,There is a regular assessment of the independence of the tax administration and its procedures. ,YES,NOT_AVAILABLE,YES,NO,YES,YES,YES,NO
 TAX_I09,TAX_QL09,There is a fully implemented independent management board of the tax administration.,NO,NOT_AVAILABLE,NO,NO,NO,YES,NO,NO
@@ -373,15 +373,15 @@ TAX_I11,TAX_QL11, A comprehensive range of tax information is available online t
 TAX_I11,TAX_QL11,The government quickly handles appeals related to taxes.  ,YES,NOT_AVAILABLE,NO,YES,YES,YES,YES,YES
 TAX_I11,TAX_QL11,Taxpayer services are monitored on a regular basis and have been corrected accordingly. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 TAX_I11,TAX_QL11,Tax authorities use models that differentiate between different groups of taxpayers to better meet the needs of these individuals and firms. ,NO,NOT_AVAILABLE,YES,YES,YES,NO,YES,YES
-TAX_I11,TAX_QL11,The economy conducts regular surveys that measure taxpayers’ satisfaction with available services.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
+TAX_I11,TAX_QL11,The economy conducts regular surveys that measure taxpayers‚Äô satisfaction with available services.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 ENTERPRISE_I01,ENTERPRISE_QL01,"An SOE ownership policy which explicitly defines the rationales for state ownership has been adopted. 
 * State ownership rationale sourced externally. ",YES*,NOT_AVAILABLE,YES*,YES*,YES,YES*,YES*,YES
-ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy defines the state’s overall ownership objectives.,NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,YES
+ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy defines the state‚Äôs overall ownership objectives.,NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,YES
 ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy articulates the mandate of the ownership entity and clarifies its main functions. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
-ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy specifies the state’s expectations from the companies. ,NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,YES
+ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy specifies the state‚Äôs expectations from the companies. ,NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,YES
 ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy is being implemented at least across a portfolio of companies.  ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ENTERPRISE_I01,ENTERPRISE_QL01,The SOE ownership policy is being fully implemented across all SOEs. .,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-ENTERPRISE_I01,ENTERPRISE_QL01,SOEs are periodically evaluated based on quantifiable performance indicators against their fulfilment of the state’s expectations. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+ENTERPRISE_I01,ENTERPRISE_QL01,SOEs are periodically evaluated based on quantifiable performance indicators against their fulfilment of the state‚Äôs expectations. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ENTERPRISE_I02,ENTERPRISE_QL02,Formal information (laws and regulations) is available that clearly establishes the institutional responsibilities for exercising state ownership.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 ENTERPRISE_I02,ENTERPRISE_QL02,"The responsibilities for regulatory activities and ownership activities have been fully separated for at least the majority of SOEs to ensure that they are not conflicted.  
 * For some SOEs. ",YES*,NOT_AVAILABLE,YES*,YES*,YES,YES*,YES*,YES
@@ -427,7 +427,7 @@ ENTERPRISE_I06,ENTERPRISE_QL06,"Financial and non-financial reporting is publicl
 *Only financial statements. ",YES*,NOT_AVAILABLE,YES*,YES*,YES*,NO,YES*,YES*
 ENTERPRISE_I06,ENTERPRISE_QL06,"SOEs are subject to the same high-quality accounting, disclosure, compliance and auditing standards as stock-Exchange listed enterprises. ",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ENTERPRISE_I06,ENTERPRISE_QL06,"SOEs are required to publish sustainability reports (including information on environmental, social and governance issues).",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-ENTERPRISE_I06,ENTERPRISE_QL06,"The government monitors SOEs’ compliance with applicable financial and non-financial reporting requirements.
+ENTERPRISE_I06,ENTERPRISE_QL06,"The government monitors SOEs‚Äô compliance with applicable financial and non-financial reporting requirements.
 *Monitoring outcomes not available",NO,NOT_AVAILABLE,NO,NO,NO,YES*,NO,NO
 ENTERPRISE_I06,ENTERPRISE_QL06,"The privatisati negative effects on privatisations (e.g., on workers and public-service delivery). ",NO,NOT_AVAILABLE,NO,NO,YES,NO,YES,NO
 ENTERPRISE_I07,ENTERPRISE_QL07,SOEs publish separate financial statements. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
@@ -435,11 +435,11 @@ ENTERPRISE_I07,ENTERPRISE_QL07,"The financial statements of at least some SOEs a
 ENTERPRISE_I07,ENTERPRISE_QL07,"For most SOEs that are required to publish financial statements (e.g. for large SOEs or those that are considered public-interest entities) an external commercial audit is required. 
 *Only for some",YES*,NOT_AVAILABLE,YES,YES,YES*,YES*,YES*,YES
 ENTERPRISE_I07,ENTERPRISE_QL07,External audits are carried out in accordance with internationally recognised auditing standards (e.g. the International Standards on Auditing).,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
-ENTERPRISE_I07,ENTERPRISE_QL07,external auditors are required by law to be independent of SOEs’ management and large shareholders.  ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
+ENTERPRISE_I07,ENTERPRISE_QL07,external auditors are required by law to be independent of SOEs‚Äô management and large shareholders.  ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 ENTERPRISE_I07,ENTERPRISE_QL07,"Monitoring activities of state audit bodies focus on the performance and efficiency of the SOE sector as a whole. 
 *Monitoring activities ofstate audit bodies are limited to the use of public funds and budget resources and/or consist of financial-statement audits. ",YES*,NOT_AVAILABLE,NO,NO,NO,YES*,YES*,YES*
 ENTERPRISE_I07,ENTERPRISE_QL07,There are requirements to establish audit committees for all or most SOEs. ,NO,NOT_AVAILABLE,YES,YES,YES,YES,NO,YES
-ENTERPRISE_I07,ENTERPRISE_QL07,SOEs’ financial statements are in most cases determined by an external audit to appropriately and fairly present the operations and financial condition of the SOE.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+ENTERPRISE_I07,ENTERPRISE_QL07,SOEs‚Äô financial statements are in most cases determined by an external audit to appropriately and fairly present the operations and financial condition of the SOE.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ENTERPRISE_I08,ENTERPRISE_QL08,"SOEs undertake  corruption risk assessments to address corruption and bribery risks specifically in SOEs. 
 *SOEs undertake ad-hoc measures to address corruption and bribery risks specifically in SOEs ",YES*,NOT_AVAILABLE,YES*,YES*,NO,YES,NO,YES
 ENTERPRISE_I08,ENTERPRISE_QL08,Politicians are barred from serving on SOE boards of directors.,NO,NOT_AVAILABLE,YES,YES,YES,YES,NO,NO
@@ -454,7 +454,7 @@ ENTERPRISE_I08,ENTERPRISE_QL08,"The ownership entity explicitly encourages most 
 *Some SOEs are encouraged to develop and implement internal integrity measures, or the measures required of all SOEs are limited in scope ",NO,NOT_AVAILABLE,YES*,YES*,YES*,YES*,NO,YES
 ENTERPRISE_I08,ENTERPRISE_QL08,"Most or all SOEs have developed internal codes of ethics that address e.g., issues related to procurement, conflicts of interest, charitable donations and board/top management nepotism.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ENTERPRISE_I08,ENTERPRISE_QL08,"SOE employees, management and board members receive regular training on anti-corruption and integrity measures.",NO,NOT_AVAILABLE,NO,NO,NO,YES,NO,NO
-ENTERPRISE_I08,ENTERPRISE_QL08,Legislation protects “whistle-blowers” in SOEs (which report unethical or illegal conduct) from retaliation. ,NO,NOT_AVAILABLE,YES,NO,NO,YES,NO,YES
+ENTERPRISE_I08,ENTERPRISE_QL08,Legislation protects ‚Äúwhistle-blowers‚Äù in SOEs (which report unethical or illegal conduct) from retaliation. ,NO,NOT_AVAILABLE,YES,NO,NO,YES,NO,YES
 ENTERPRISE_I08,ENTERPRISE_QL08,Most or all SOEs have established internal audit procedures.  ,NO,NOT_AVAILABLE,YES,NO,YES,YES,NO,NO
 ENTERPRISE_I09,ENTERPRISE_QL09,"There are laws in place for the protection of minority shareholders (i.e., non-state shareholders of state-owned enterprises). ",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 ENTERPRISE_I09,ENTERPRISE_QL09,"Legislation for the protection of minority shareholders is widely respected by SOEs. 
@@ -470,7 +470,7 @@ ENTERPRISE_I10,ENTERPRISE_QL10,"At least the majority of SOEs carrying out econo
 ENTERPRISE_I10,ENTERPRISE_QL10,"All SOEs carrying out economic activities have been incorporated under company law (e.g., as joint-stock or limited liability companies). 
 *There are no SOEs with a different legal form than privately-owned companies.",YES*,NOT_AVAILABLE,NO,NO,YES,NO,NO,NO
 ENTERPRISE_I10,ENTERPRISE_QL10,"Where SOEs carry out economic activities these activities are subject to the same tax and regulatory treatment (e.g., market regulations or bankruptcy procedures) applicable to private companies. ",YES,NOT_AVAILABLE,NO,NO,YES,YES,NO,YES
-ENTERPRISE_I10,ENTERPRISE_QL10,Any derogations to SOEs’ legal and regulatory treatment are made transparent and are narrowly established to avoid market distortions. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+ENTERPRISE_I10,ENTERPRISE_QL10,Any derogations to SOEs‚Äô legal and regulatory treatment are made transparent and are narrowly established to avoid market distortions. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ENTERPRISE_I11,ENTERPRISE_QL11,Information is available on the conditions under which SOEs obtain financing. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 ENTERPRISE_I11,ENTERPRISE_QL11,"At least some of the largest SOEs obtain some financing on the marketplace and face market consistent conditions regarding access to debt and equity. 
 *Obtained financing is not on market consistent terms (e.g owing to explicit state guarantees)",YES*,NOT_AVAILABLE,YES,YES,YES*,YES,YES*,YES*
@@ -495,7 +495,7 @@ ANTI_CORRUPTION_I01,ANTI_CORRUPTION_QL01,The authorities regularly publish onlin
 ANTI_CORRUPTION_I01,ANTI_CORRUPTION_QL01,Focal points in implementing agencies support co-ordination and report to the central staff/unit.,YES,YES,NO,YES,NO,NO,YES,YES
 ANTI_CORRUPTION_I01,ANTI_CORRUPTION_QL01,"Anti-corruption policy implementation has been regularly evaluated, and the results are published.",YES,NO,NO,NO,NO,NO,YES,YES
 ANTI_CORRUPTION_I01,ANTI_CORRUPTION_QL01,Independent experts and civil society stakeholders contribute to the evaluation of the anti-corruption policy.,NO,YES,NO,YES,NO,NO,YES,NO
-ANTI_CORRUPTION_I01,ANTI_CORRUPTION_QL01,Findings of evaluations are used for adjusting the planning and/or implementation of future actions .,YES,NO,NO,NO,NO,NO,NO,YES
+ANTI_CORRUPTION_I01,ANTI_CORRUPTION_QL01,Findings of evaluations are used for adjusting the planning and/or implementation of future actions¬†.,YES,NO,NO,NO,NO,NO,NO,YES
 ANTI_CORRUPTION_I02,ANTI_CORRUPTION_QL02,"Legislation governing corruption risk assessments has been adopted. 
 *Under development",YES*,YES,YES*,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I02,ANTI_CORRUPTION_QL02,Corruption risk assessments are carried out in public institutions on a systematic basis.,YES,YES,NO,NO,NO,YES,YES,YES
@@ -519,29 +519,29 @@ ANTI_CORRUPTION_I03,ANTI_CORRUPTION_QL03,The proofing practice has been evaluate
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,A corruption prevention body has been established.,YES,YES,NO,YES,YES,YES,YES,YES
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,"The body has adequate powers to implement preventive measures (including against conflicts of interest, wrongfully undisclosed income and assets, and illicit enrichment).",YES,YES,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,The body possesses adequate human and financial resources to carry out its mission effectively.,YES,YES,NO,YES,NO,YES,YES,NO
-ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,The majority of the body’s staff received training over the past two years.,NO,YES,NO,YES,YES,YES,YES,YES
+ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,The majority of the body‚Äôs staff received training over the past two years.,NO,YES,NO,YES,YES,YES,YES,YES
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,"The procedures for selecting, appointing and dismissing the head of the body comprise safeguards against arbitrariness and ensure public accountability. 
 *Only general public administration rules for one of the bodies",YES*,YES,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,"The body has safeguards to shield it from undue influence. 
 *Only general public administration rulesfor one of the bodies",YES*,YES,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Performance reports show that the body has used (some of) its powers in practice. ,YES,YES,NO,YES,YES,YES,YES,YES
-ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Independent evidence shows that the body is both financially and operationally independent .,YES,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Independent evidence shows that the body is both financially and operationally independent¬†.,YES,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,The body ensures reporting and publication of detailed performance statistics.,YES,YES,NO,YES,YES,YES,YES,YES
-ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Independent evaluation of the body’s activities is carried out systematically and the results are published.,YES,NO,NO,NO,YES,YES,NO,YES
+ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Independent evaluation of the body‚Äôs activities is carried out systematically and the results are published.,YES,NO,NO,NO,YES,YES,NO,YES
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Evaluations have revealed effective practice and independence from undue influence.,NO,NO,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Findings of evaluations are used for further improvement of the body’s performance.,NO,NO,NO,NO,NO,YES,NO,NO
+ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Findings of evaluations are used for further improvement of the body‚Äôs performance.,NO,NO,NO,NO,NO,YES,NO,NO
 ANTI_CORRUPTION_I04,ANTI_CORRUPTION_QL04,Dedicated mechanisms of parliamentary and civil society oversight ensure effective public accountability in practice.,NO,NO,NO,NO,NO,NO,NO,YES
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,"A law that governs the management of conflicts of interest is in force, applying to most public officials and comprising basic elements envisaged by international recommendations.",YES,YES,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,The law prescribes actions to manage conflicts of interest and designates institutions/officials to provide support and oversight.,YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,The law envisages effective penalties for violations of conflict-of-interest and related rules.,YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Published data reveal continuous efforts to resolve conflicts of interest and oversee compliance with conflict-of-interest rules.,YES,NO,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Sanctions are routinely imposed on public officials and civil servants for violations of conflict-of-interest and related rules.,YES,NO,NO,NO,NO,YES,YES,YES
-ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Independent assessments find the implementation and enforcement of conflict-of-interest rules to be impartial and consistent .,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Independent assessments find the implementation and enforcement of conflict-of-interest rules to be impartial and consistent¬†.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Decisions or contracts made in violation of conflict-of-interest regulations are routinely invalidated.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,"Authorities regularly publish information about the resolution of reported conflicts of interest, reported gifts, violations of conflict-of-interest and/or related rules. ",NO,NO,NO,NO,YES,YES,YES,YES
-ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,"Evaluations of the performance of the conflict-of-interest law are carried out systematically .
+ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,"Evaluations of the performance of the conflict-of-interest law are carried out systematically¬†.
 *Results are not published",YES*,YES,NO,NO,NO,YES,NO,YES
-ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Findings of evaluations are used for further improvements of the law and practice .,YES,YES,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,Findings of evaluations are used for further improvements of the law and practice¬†.,YES,YES,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I05,ANTI_CORRUPTION_QL05,"Evaluations find that the implementation is shifting from enforcement-based to integrity-based mode where covered public officials and civil servants act proactively to, as far as practically possible, avoid even potential and apparent conflicts of interest.",NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,A law that governs asset and interest disclosure is in force and applies to most high-level public officials. ,YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,"The law requires disclosure of most or all relevant data on income and significant assets, and personal interests.",YES,YES,NO,NO,YES,YES,YES,YES
@@ -554,40 +554,40 @@ ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,The authorities regularly publish onlin
 ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,"An electronic system for the management and/or analysis of declarations allows automated cross-checks with other government data bases.
 *Not yet existent but under development",YES,NO,NO,NO,NO,YES*,YES*,YES*
 ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,Evaluations of disclosure rules are carried out systematically and the results are published.,YES,NO,NO,NO,NO,YES,NO,YES
-ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,Findings of evaluations are used for further improvements of the law and practice .,YES,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,Findings of evaluations are used for further improvements of the law and practice¬†.,YES,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,Evaluations find that the implementation has proven effective for routine detection of conflict-of-interest violations and illicit enrichment or unjustified assets.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I06,ANTI_CORRUPTION_QL06,"As a result of effective disclosure, suspicions regarding illicit enrichment of public officials have become rare.",NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,".A law for the protection of whistleblowers is in force and covers most employees in public and private sectors.
 *Under development/only covers public sector employees",YES,YES*,YES,YES*,YES,YES,YES,YES
-ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,The law envisages protection regardless the motive of a whistleblower and is fully aligned with Directive (EU) 2019/1937 .,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,The law envisages protection regardless the motive of a whistleblower and is fully aligned with Directive (EU) 2019/1937¬†.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,"A dedicated authority receives and investigates complaints about retaliation, orders or initiates remedial measures.",YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Available data reveal a stable track record of whistleblowing.,YES,YES,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Independent stakeholders perceive that protection of whistleblowers is ensured in practice.,NO,NO,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Whistleblowers can freely choose whether to report internally or through external channels .,NO,NO,YES,NO,NO,YES,NO,YES
+ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Whistleblowers can freely choose whether to report internally or through external channels¬†.,NO,NO,YES,NO,NO,YES,NO,YES
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,The authorities regularly publish detailed statistics on whistleblowing.,YES,NO,NO,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Evaluations of the whistleblower protection framework are carried out regularly and the results are published.,YES,YES,YES,NO,YES,NO,NO,YES
-ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Findings of evaluations are used for further improvements of the law and practice .,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Findings of evaluations are used for further improvements of the law and practice¬†.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Evaluations find increase of public trust in whistleblower protection and public awareness on how whistleblowing protects the public interest.,NO,NO,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Most cases related to breaches of confidentiality of a whistleblower’s identity or instances of retaliation were investigated and appropriately remedied.,YES,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I07,ANTI_CORRUPTION_QL07,Most cases related to breaches of confidentiality of a whistleblower‚Äôs identity or instances of retaliation were investigated and appropriately remedied.,YES,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,The government engages in anti-corruption campaigns.,YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,"The government uses easily accessible materials for public officials, business and civil society.",YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,There is an operational and adequately staffed body for the co-ordination of awareness-raising and education efforts.,YES,YES,NO,NO,NO,YES,YES,YES
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,The government organises conferences and seminars for target audiences.,YES,YES,NO,NO,NO,YES,YES,YES
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,The government allocates specific funding in support of awareness raising and education.,YES,NO,NO,NO,NO,YES,NO,NO
-ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,"The effectiveness of particular awareness-raising and education measures is assessed, and corrective action is taken .",NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,"The effectiveness of particular awareness-raising and education measures is assessed, and corrective action is taken¬†.",NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,There are continuous anti-corruption awareness raising and educational programmes for various target groups.,YES,YES,NO,NO,YES,YES,NO,YES
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,Evaluations of awareness raising activities are carried out systematically and the results are published.,NO,NO,NO,NO,NO,YES,NO,NO
-ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,Findings of evaluations are used for further improvements of the practice .,NO,NO,NO,NO,NO,YES,NO,NO
+ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,Findings of evaluations are used for further improvements of the practice¬†.,NO,NO,NO,NO,NO,YES,NO,NO
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,"Awareness-raising and education target the media, and measures are in place to permit and encourage investigative journalism and freedom of speech.",NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I08,ANTI_CORRUPTION_QL08,There is evidence of decreasing tolerance towards corruption and increasing knowledge on how to act correctly when encountering it.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,There are laws and regulations in force that cover corruption risk management in companies. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,There are laws and regulations in force that cover basic requirements to disclose beneficial owners.,YES,NOT_AVAILABLE,YES,NO,NO,YES,YES,YES
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The laws and regulations assign to company boards the responsibility to oversee corruption risk management. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The laws and regulations designate an authority to monitor compliance of listed companies.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The laws and regulations define “beneficial owner” in line with international standards and require providing a state authority with information about beneficial owners.,YES,NOT_AVAILABLE,YES,NO,NO,YES,YES,YES
+ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The laws and regulations define ‚Äúbeneficial owner‚Äù in line with international standards and require providing a state authority with information about beneficial owners.,YES,NOT_AVAILABLE,YES,NO,NO,YES,YES,YES
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,A guide for adopting compliance programmes or a similar document has been adopted and published.,NO,NOT_AVAILABLE,NO,NO,NO,NO,YES,YES
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,Independent assessments find the implementation of the business integrity requirements and mechanisms to be impartial and consistent.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The authorities routinely verify beneficial ownership information and impose sanctions .,YES,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
+ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The authorities routinely verify beneficial ownership information and impose sanctions¬†.,YES,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,The authorities make beneficial ownership information available at least to those who have legitimate interest.,YES,NOT_AVAILABLE,NO,NO,NO,YES,YES,YES
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,Evaluations of the business integrity framework are carried out systematically and the results are published.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I09,ANTI_CORRUPTION_QL09,Findings of evaluations are used for further improvements of the laws and practice.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
@@ -619,16 +619,16 @@ ANTI_CORRUPTION_I11,ANTI_CORRUPTION_QL11,International and national surveys and 
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,"A specialised anti-corruption investigative body, or several, have been established.",YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,The body has full intelligence and investigatory powers of a law enforcement agency.,YES,YES,YES,NO,YES,YES,YES,YES
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Adequate human resources and a stable or increasing annual budget are in place to ensure the functioning of the body.,YES,NO,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,The majority of the body’s staff received training over the past two years.,YES,NO,YES,NO,NO,NO,YES,NO
+ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,The majority of the body‚Äôs staff received training over the past two years.,YES,NO,YES,NO,NO,NO,YES,NO
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,"The procedures for selecting, appointing and dismissing the head of the body comprise safeguards against arbitrariness and ensure public accountability. ",YES,YES,NO,NO,NO,YES,NO,NO
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,"The body has safeguards to shield it from undue influence. 
 *Limited safeguards as for any policy unit. ",YES,YES,YES*,NO,YES*,YES,YES*,YES*
-ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,"Independent assessments find the body’s work to be independent, impartial and effective.",YES,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,"Independent assessments find the body‚Äôs work to be independent, impartial and effective.",YES,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,"The body ensures reporting and publication of detailed performance statistics.
 *Reports are not published.",YES,YES,YES*,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Independent evaluation of the body’s activities is carried out systematically and the results are published.,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Independent evaluation of the body‚Äôs activities is carried out systematically and the results are published.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Evaluations have revealed effective practice and independence from undue influence.,NO,NO,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Findings of evaluations are used for further improvements of the body’s performance.,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Findings of evaluations are used for further improvements of the body‚Äôs performance.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I12,ANTI_CORRUPTION_QL12,Dedicated mechanisms of parliamentary and civil society oversight ensure effective public accountability in practice.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,"A specialised anti-corruption prosecutorial body, or several, have been established.
 *Not yet established but under development.",YES,YES,YES,YES*,YES,YES,YES,YES
@@ -636,12 +636,12 @@ ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,"The body has full powers to support, s
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Adequate human resources and a stable or increasing annual budget are in place to ensure the functioning of the body.,YES,NO,NO,NO,NO,YES,YES,NO
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,The majority of the staff received training over the past two years.,YES,NO,NO,NO,NO,NO,NO,YES
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,"The procedures for selecting, appointing and dismissing the head of the body comprise safeguards against arbitrariness and ensure public accountability. 
-*Only usual procedures as for units of the Prosecutor’s Office",YES,YES*,NO,YES,NO,YES,YES,YES
+*Only usual procedures as for units of the Prosecutor‚Äôs Office",YES,YES*,NO,YES,NO,YES,YES,YES
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,"Independent assessments find the body to be independent, impartial and effective.",YES,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,The body ensures reporting and publication of detailed performance statistics.,YES,YES,NO,NO,NO,YES,YES,NO
-ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Independent evaluation of the body’s activities is carried out systematically and the results are published.,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Independent evaluation of the body‚Äôs activities is carried out systematically and the results are published.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Evaluations have revealed effective practice and independence from undue influence.,NO,NO,NO,NO,NO,NO,NO,NO
-ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Findings of evaluations are used for further improvements of the body’s performance.,NO,NO,NO,NO,NO,NO,NO,NO
+ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Findings of evaluations are used for further improvements of the body‚Äôs performance.,NO,NO,NO,NO,NO,NO,NO,NO
 ANTI_CORRUPTION_I13,ANTI_CORRUPTION_QL13,Dedicated mechanisms of parliamentary and civil society oversight ensure effective public accountability in practice.,NO,NO,NO,NO,NO,NO,NO,NO
 EDUCATION_I01,EDUCATION_QL01,An overarching strategy or vision for the education system is in place. ,YES,YES,YES,NO,YES,NO,YES,YES
 EDUCATION_I01,EDUCATION_QL01,"There are clear budget allocations for implementation of activities and budget is not exclusively donor-funded. 
@@ -650,7 +650,7 @@ EDUCATION_I01,EDUCATION_QL01,"A national qualifications framework is in place.
 *Under development",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 EDUCATION_I01,EDUCATION_QL01,"There is a clear indicator framework for monitoring the education system and information is stored in an Education Information Management System (EMIS). 
 *System not fully developed",YES*,NO,NO,NO,YES,YES,YES,YES
-EDUCATION_I01,EDUCATION_QL01,A monitoring system is in place to assess the efficiency of the strategy vis-à-vis the implementation plan. ,YES,NO,YES,YES,YES,YES,YES,YES
+EDUCATION_I01,EDUCATION_QL01,A monitoring system is in place to assess the efficiency of the strategy vis-√†-vis the implementation plan. ,YES,NO,YES,YES,YES,YES,YES,YES
 EDUCATION_I01,EDUCATION_QL01,"There is an annual public report that analyses the performance of the education system in relation to established goals. 
 *Not annual",YES,NO,YES*,NO,YES,YES,YES,YES
 EDUCATION_I01,EDUCATION_QL01,"There is some independent research or analysis of education policies.
@@ -666,11 +666,11 @@ EDUCATION_I02,EDUCATION_QL02,"Funding is available to cover the planned implemen
 EDUCATION_I02,EDUCATION_QL02,The majority of the ECE workforce has received a qualification.,YES,YES,YES,YES,YES,YES,YES,YES
 EDUCATION_I02,EDUCATION_QL02,"Regular data collection of ECE indicators.
 *Some relevant data is not collected",YES,YES,YES,YES,YES,YES,YES,YES*
-EDUCATION_I02,EDUCATION_QL02,"Policies are adjusted based on research findings and system monitoring, as appropriate . ",YES,NO,YES,YES,YES,NO,NO,YES
-EDUCATION_I02,EDUCATION_QL02,All ECE staff has received a qualification and receives trainings regularly . ,YES,YES,YES,YES,YES,YES,NO,YES
+EDUCATION_I02,EDUCATION_QL02,"Policies are adjusted based on research findings and system monitoring, as appropriate¬†. ",YES,NO,YES,YES,YES,NO,NO,YES
+EDUCATION_I02,EDUCATION_QL02,All ECE staff has received a qualification and receives trainings regularly¬†. ,YES,YES,YES,YES,YES,YES,NO,YES
 EDUCATION_I02,EDUCATION_QL02,"Measures to expand ECE provision and make ECE more accessible to marginalised groups are in place (e.g., adjusting opening hours).",YES,YES,YES,YES,YES,YES,YES,YES
-EDUCATION_I02,EDUCATION_QL02,Curriculum guidelines ensure continuity across transition years .,YES,YES,YES,YES,YES,NO,NO,YES
-EDUCATION_I02,EDUCATION_QL02,"Strategy or policy measures have undergone an evaluation, drawing on data from satisfaction surveys and/or schooling outcomes, as appropriate .",NO,NO,NO,NO,NO,NO,NO,NO
+EDUCATION_I02,EDUCATION_QL02,Curriculum guidelines ensure continuity across transition years¬†.,YES,YES,YES,YES,YES,NO,NO,YES
+EDUCATION_I02,EDUCATION_QL02,"Strategy or policy measures have undergone an evaluation, drawing on data from satisfaction surveys and/or schooling outcomes, as appropriate¬†.",NO,NO,NO,NO,NO,NO,NO,NO
 EDUCATION_I03,EDUCATION_QL03,"A strategy/policy aiming to improve educational quality and equity is in place.
 *Policy not limited to education",YES,NO,YES,YES*,YES,NO,YES,YES
 EDUCATION_I03,EDUCATION_QL03,"Funding is available to cover the planned implementation budget, which is not exclusively donor funded. 
@@ -693,19 +693,19 @@ EDUCATION_I04,EDUCATION_QL04,"A range of data is collected to monitor the teachi
 *Not all relevant data is collected",YES,NOT_AVAILABLE,NO,NO,YES*,YES,NO,NO
 EDUCATION_I04,EDUCATION_QL04,There is a system of accreditation for initial teacher education programmes;,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 EDUCATION_I04,EDUCATION_QL04,There are targeted efforts to recruit teachers.,YES,NOT_AVAILABLE,NO,YES,YES,NO,YES,YES
-EDUCATION_I04,EDUCATION_QL04,Policies address structural issues to help raise competitiveness of the teaching profession .,YES,NOT_AVAILABLE,YES,YES,YES,YES,NO,YES
+EDUCATION_I04,EDUCATION_QL04,Policies address structural issues to help raise competitiveness of the teaching profession¬†.,YES,NOT_AVAILABLE,YES,YES,YES,YES,NO,YES
 EDUCATION_I04,EDUCATION_QL04,Mechanisms are in place to ensure that individuals who wish to enter the profession mid-career - with relevant skills and experience gained outside of education - have acquired the competences needed for good teaching.,YES,NOT_AVAILABLE,YES,YES,YES,NO,YES,YES
 EDUCATION_I04,EDUCATION_QL04,"Teacher policy on selection and initial education has undergone an evaluation and been adjusted, as appropriate.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 EDUCATION_I05,EDUCATION_QL05,Development of the teacher workforce is considered a key education priority in either a broad strategy or within a specific strategy/policy on teachers. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 EDUCATION_I05,EDUCATION_QL05,Professional standards express the competencies expected of teachers.,YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
-EDUCATION_I05,EDUCATION_QL05,Mechanisms existto identify teachers’ development needs (e.g. teacher appraisal).,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
+EDUCATION_I05,EDUCATION_QL05,Mechanisms existto identify teachers‚Äô development needs (e.g. teacher appraisal).,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 EDUCATION_I05,EDUCATION_QL05,Policy provides access and time for teacher professional development. ,YES,NOT_AVAILABLE,NO,YES,NO,YES,YES,YES
 EDUCATION_I05,EDUCATION_QL05,"Accreditation system plays an important role in steering provision, maintaining oversight and ensuring quality of teacher professional development.",YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
 EDUCATION_I05,EDUCATION_QL05,There are clear budget allocations and incentives for teacher professional development programmes and activities; overall funding is sufficient and not exclusively donor-funded.,YES,NOT_AVAILABLE,NO,NO,YES,YES,NO,YES
 EDUCATION_I05,EDUCATION_QL05,"A range of data is collected to monitor the professional development needs of teachers and the effectiveness of programmes and activities to address these needs. 
 *Not all relevant data is collected",YES,NOT_AVAILABLE,YES*,YES*,YES,YES,YES,YES
 EDUCATION_I05,EDUCATION_QL05,There is a clear career structure that aligns with professional teacher standards.,YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
-EDUCATION_I05,EDUCATION_QL05,"A lifelong learning framework exists for teachers - connecting initial teacher education, induction and professional development through teacher standards .",NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,NO
+EDUCATION_I05,EDUCATION_QL05,"A lifelong learning framework exists for teachers - connecting initial teacher education, induction and professional development through teacher standards¬†.",NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,NO
 EDUCATION_I05,EDUCATION_QL05,"A range of professional development activities are available and their effectiveness is monitored.
 *Partially",YES,NOT_AVAILABLE,YES*,YES*,YES,YES,YES,YES
 EDUCATION_I05,EDUCATION_QL05,"Teachers renew their teaching certificates periodically through an open, fair and transparent system of teacher evaluation.",YES,NOT_AVAILABLE,NO,NO,YES,NO,NO,NO
@@ -716,10 +716,10 @@ EDUCATION_I06,EDUCATION_QL06,The VET Governance system evaluates quality of VET 
 EDUCATION_I06,EDUCATION_QL06,The VET Governance system approves new VET programmes/providers.,YES,NO,NO,NO,YES,YES,YES,YES
 EDUCATION_I06,EDUCATION_QL06,"The VET Governance system monitors trends in VET outcomes (e.g. employability).
 *Not all trends are monitored",YES,NO,YES*,YES,YES,YES,YES*,NO
-EDUCATION_I06,EDUCATION_QL06,"There are statistical tracking mechanisms, consultation processes and evidence from skills surveys that support planning and development of the VET sector . ",YES,NO,NO,NO,YES,YES,NO,YES
+EDUCATION_I06,EDUCATION_QL06,"There are statistical tracking mechanisms, consultation processes and evidence from skills surveys that support planning and development of the VET sector¬†. ",YES,NO,NO,NO,YES,YES,NO,YES
 EDUCATION_I06,EDUCATION_QL06,"Learners have access to updated and relevant career guidance and information (e.g., about employability) to make informed decisions about their education and training pathways.  ",YES,NO,NO,NO,NO,YES,YES,YES
 EDUCATION_I06,EDUCATION_QL06,The monitoring and re-adjustment of VET policy is regular and systematic. ,NO,NO,NO,NO,NO,YES,YES,YES
-EDUCATION_I06,EDUCATION_QL06,"Employers’ representatives deem that incentives for employers’ participation in VET provision are sufficient and there is widespread participation in developing curricula, offering WBL placements and other forms of engagement.
+EDUCATION_I06,EDUCATION_QL06,"Employers‚Äô representatives deem that incentives for employers‚Äô participation in VET provision are sufficient and there is widespread participation in developing curricula, offering WBL placements and other forms of engagement.
 *Under development",NO,NO,NO,NO,NO,YES*,YES,NO
 EDUCATION_I07,EDUCATION_QL07,"There is a clear strategy/policy framework or law aiming to enhance the labour market relevance and outcomes of higher education.
 *Strategy is under adoption.",YES,NO,YES*,YES,YES,YES,YES,YES
@@ -737,7 +737,7 @@ EDUCATION_I08,EDUCATION_QL08,"A national framework for digital skills for studen
 EDUCATION_I08,EDUCATION_QL08,The framework plan includes the integration of digital skills development and digital technologies into primary and secondary education. ,YES,YES,YES,YES,YES,YES,YES,YES
 EDUCATION_I08,EDUCATION_QL08,The framework plan has the objective to introduce computers with internet access and equip classrooms as much as possible to promote development of digital skills.,YES,YES,YES,YES,YES,YES,YES,YES
 EDUCATION_I08,EDUCATION_QL08,"Coherent progression of digital skills and competences between primary, secondary and higher education curricula. ",YES,NO,NO,NO,YES,YES,NO,YES
-EDUCATION_I08,EDUCATION_QL08,Performance indicators on students’ digital skills development are collected regularly.,YES,NO,NO,YES,YES,YES,NO,NO
+EDUCATION_I08,EDUCATION_QL08,Performance indicators on students‚Äô digital skills development are collected regularly.,YES,NO,NO,YES,YES,YES,NO,NO
 EDUCATION_I08,EDUCATION_QL08, All schools are equipped with the adequate ICT infrastructure. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 EDUCATION_I08,EDUCATION_QL08,Teachers have the necessary competences and/or are supported to implement digital skills curriculum.,NO,NOT_AVAILABLE,NO,YES,YES,YES,NO,YES
 EDUCATION_I08,EDUCATION_QL08,"Regular monitoring activities and impact assessments on are conducted.
@@ -798,14 +798,14 @@ EMPLOYMENT_I03,EMPLOYMENT_QL03,"Awareness raising campaigns advocating decent pa
 *Tripartite bargaining on various issues still needs to be strengthened",YES,NOT_AVAILABLE,YES,YES,YES,YES*,YES,YES
 EMPLOYMENT_I03,EMPLOYMENT_QL03,Large coverage of collective bargaining (over half of workers).,YES,NOT_AVAILABLE,YES,YES,NO,YES,YES,NO
 EMPLOYMENT_I04,EMPLOYMENT_QL04,"The policy framework/strategy/action plan/measures include the promotion of equality for women, and for disadvantaged groups such as youth, physically challenged persons, ethnic groups (such as Roma), child workers and others who suffer from discrimination and inequalities.",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
-EMPLOYMENT_I04,EMPLOYMENT_QL04,"The policy framework/strategy/action plan/measures include: Measures to reconcile family and working lives (in particular childcare); vocational orientation; awareness raising on gender stereotypes (in schools, at the workplace). ",YES,NOT_AVAILABLE,YES,YES,NO,YES,YES,YES
+EMPLOYMENT_I04,EMPLOYMENT_QL04,"The policy framework/strategy/action plan/measures include: Measures to reconcile family and working lives (in particular childcare); vocational orientation; awareness raising on gender stereotypes (in schools, at the workplace).¬†",YES,NOT_AVAILABLE,YES,YES,NO,YES,YES,YES
 EMPLOYMENT_I04,EMPLOYMENT_QL04,There is a good institutional co-ordination between national and sub-national level government bodies which design policy and implement programmes for vulnerable groups.,YES,NOT_AVAILABLE,YES,YES,NO,YES,YES,YES
 EMPLOYMENT_I04,EMPLOYMENT_QL04,Information systems and databases on key employment indicators on women and on specific vulnerable groups are created and updated. ,YES,NOT_AVAILABLE,NO,YES,YES,NO,YES,YES
 EMPLOYMENT_I04,EMPLOYMENT_QL04,Implementation of the employment policy for vulnerable and disadvantaged groups is advanced.,YES,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
 EMPLOYMENT_I04,EMPLOYMENT_QL04,"Evidence of active policy implementation as measured by inputs (e.g. budget and assets, regulations) and outputs (e.g. beneficiaries supported, increase of female employment, reduction on gender wage gap) of the framework. ",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 EMPLOYMENT_I04,EMPLOYMENT_QL04,Results of monitoring and evaluation analysis inform policy framework design and implementation updates.,YES,NOT_AVAILABLE,NO,NO,YES,NO,YES,YES
 EMPLOYMENT_I04,EMPLOYMENT_QL04,Administrative responsibilities and available funding are fully aligned.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-EMPLOYMENT_I04,EMPLOYMENT_QL04,"In addition to regular  monitoring activities, regular evaluation activities assessing employment policy for vulnerable and disadvantaged groups are conducted. 
+EMPLOYMENT_I04,EMPLOYMENT_QL04,"In addition to regular ¬†monitoring activities, regular evaluation activities assessing employment policy for vulnerable and disadvantaged groups are conducted. 
 *Not all vulnerable groups are subject to evaluation activities",YES,NOT_AVAILABLE,NO,YES*,NO,NO,YES,NO
 EMPLOYMENT_I05,EMPLOYMENT_QL05,"The Public Employment Service (PES) fulfils standard responsibilities to serve jobseekers and employers (namely registering jobseekers and vacancies, offering counselling services to jobseekers and employers, and referring to ALMPs), and has clear objectives.",YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 EMPLOYMENT_I05,EMPLOYMENT_QL05,PES staff attends regular capacity building activities.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
@@ -816,7 +816,7 @@ EMPLOYMENT_I05,EMPLOYMENT_QL05,An IT-based system to match jobseekers and vacanc
 EMPLOYMENT_I05,EMPLOYMENT_QL05,"There is good institutional co-ordination between PES and other government bodies, as well as education institutions.",YES,NOT_AVAILABLE,NO,YES,YES,NO,NO,YES
 EMPLOYMENT_I05,EMPLOYMENT_QL05,"Digital services (registration of jobseekers and vacancies, online job portal, information on programmes etc) are available and being used by an important share of jobseekers and employers. 
 *Only digitalisation or registration",YES,NOT_AVAILABLE,YES*,YES,YES*,NO,NO,YES*
-EMPLOYMENT_I05,EMPLOYMENT_QL05,"PES’ human and financial resources are adequate for executing its responsibilities, and caseload is not higher than 200 jobseekers per counsellor.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+EMPLOYMENT_I05,EMPLOYMENT_QL05,"PES‚Äô human and financial resources are adequate for executing its responsibilities, and caseload is not higher than 200 jobseekers per counsellor.",NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 EMPLOYMENT_I05,EMPLOYMENT_QL05,PES has dedicated staff dealing with employers.,YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
 EMPLOYMENT_I05,EMPLOYMENT_QL05,PES services are differentiated by specific segments of jobseekers and segments of companies.,NO,NOT_AVAILABLE,NO,YES,NO,NO,YES,YES
 EMPLOYMENT_I05,EMPLOYMENT_QL05,"A performance management system or an assessment of PES activities and capacities is in place.
@@ -851,7 +851,7 @@ EMPLOYMENT_I08,EMPLOYMENT_QL08,"Curricula of vocational education and training p
 EMPLOYMENT_I08,EMPLOYMENT_QL08,"Recent activities and reforms to improve the quality of vocational education and training have been implemented.
 *Partly implemented",YES,NOT_AVAILABLE,NO,YES,NO,NO,YES,YES*
 EMPLOYMENT_I08,EMPLOYMENT_QL08,There is an institutional framework in place for coordinating activities between different Ministries and State agencies and social partners to address skills mismatch.,YES,NOT_AVAILABLE,YES,NO,NO,YES,YES,NO
-EMPLOYMENT_I08,EMPLOYMENT_QL08,A system of skills validation and certification is in place or is being developed. ,YES,NOT_AVAILABLE,YES,NO,YES,YES,NO,YES
+EMPLOYMENT_I08,EMPLOYMENT_QL08,A system of skills validation and certification is in place or is being developed.¬†,YES,NOT_AVAILABLE,YES,NO,YES,YES,NO,YES
 EMPLOYMENT_I08,EMPLOYMENT_QL08,Surveys on the participation of employees in continuing training and education.,NO,NOT_AVAILABLE,YES,NO,NO,YES,YES,YES
 EMPLOYMENT_I08,EMPLOYMENT_QL08,"Skills gap analysis takes external/innovative sources taken into account and use at least 3 different methods and sources (e.g. big data from job vacancy websites), tracer studies of graduates, surveys among employers, sector studies, skills forecasting or sector foresight, assessing labour shortages, other).
 *Slight progress has been made",YES*,NOT_AVAILABLE,YES,NO,NO,NO,NO,NO
@@ -879,7 +879,7 @@ EMPLOYMENT_I10,EMPLOYMENT_QL10,There are employment incentives to promote employ
 EMPLOYMENT_I10,EMPLOYMENT_QL10,"There are entrepreneurship programmes and start-up incentives to promote employment in the green economy.
 *Such programmes are planned but not yet in place",YES,NOT_AVAILABLE,NO,NO,NO,YES,YES*,NO
 EMPLOYMENT_I10,EMPLOYMENT_QL10,Vocational counselling and career guidance have been adapted to provide guidance in the context of the green transition.,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
-EMPLOYMENT_I10,EMPLOYMENT_QL10,"Studies on the identification and classification of green jobs and “greening skills” have been conducted.
+EMPLOYMENT_I10,EMPLOYMENT_QL10,"Studies on the identification and classification of green jobs and ‚Äúgreening skills‚Äù have been conducted.
 *In progress",YES*,NOT_AVAILABLE,NO,NO,NO,YES,NO,NO
 EMPLOYMENT_I11,EMPLOYMENT_QL11,"A strategy/policy framework is in place to promote the inclusion or integration of immigrants.
 *Planned",YES*,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,NO
@@ -896,7 +896,7 @@ EMPLOYMENT_I11,EMPLOYMENT_QL11,"The policy framework aligns through periodic ass
 EMPLOYMENT_I11,EMPLOYMENT_QL11,"Strategy or policy measures have undergone an evaluation, drawing on systematically collected migration data.",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,YES
 EMPLOYMENT_I12,EMPLOYMENT_QL12,A strategy/policy framework to attract diaspora skills has been adopted. ,YES,YES,YES,YES,NO,YES,NO,YES
 EMPLOYMENT_I12,EMPLOYMENT_QL12,There is an inter-ministerial coordination mechanism on diaspora.,YES,NO,YES,NO,YES,YES,YES,YES
-EMPLOYMENT_I12,EMPLOYMENT_QL12,The policy framework includes analysis of diaspora skills’ profiles.,NO,NO,NO,NO,NO,YES,NO,NO
+EMPLOYMENT_I12,EMPLOYMENT_QL12,The policy framework includes analysis of diaspora skills‚Äô profiles.,NO,NO,NO,NO,NO,YES,NO,NO
 EMPLOYMENT_I12,EMPLOYMENT_QL12,The policy framework includes long-term and institutionalised relationships with the diaspora (through diaspora associations) to build trust.,YES,NO,YES,NO,NO,YES,NO,YES
 EMPLOYMENT_I12,EMPLOYMENT_QL12,Projects are in place to facilitate knowledge transfers through temporary return and engagement of diaspora.,YES,YES,YES,NO,YES,YES,YES,YES
 EMPLOYMENT_I12,EMPLOYMENT_QL12,Embassies and consulates play a role in building key partnerships with the diasporas and strengthening diaspora engagement.,NO,NO,YES,NO,NO,YES,NO,NO
@@ -932,7 +932,7 @@ INNOVATION_I03,INNOVATION_QL03,The innovation agency has sufficient financial re
 INNOVATION_I03,INNOVATION_QL03,There is an established science and technology agency in charge of administering grant research funding to the research sector. ,YES,NO,NO,NO,NO,NO,NO,YES
 INNOVATION_I03,INNOVATION_QL03,The science and technology agency has sufficient financial resources for the effective implementation of its tasks as foreseen by the STI policy framework.,NO,NO,NO,NO,NO,NO,NO,YES
 INNOVATION_I03,INNOVATION_QL03,The implementation body (innovation or science and technology agency) has adequate and long-term human and financial resources and an efficient governance structure which enables it to fulfil its mandate.,NO,NO,NO,NO,NO,YES,YES,YES
-INNOVATION_I03,INNOVATION_QL03,Regular monitoring and evaluation activities of the STI policy’s implementation body (innovation or science and technology agency) and its work  are in place.  ,YES,NO,NO,NO,NO,YES,YES,YES
+INNOVATION_I03,INNOVATION_QL03,Regular monitoring and evaluation activities of the STI policy‚Äôs implementation body (innovation or science and technology agency) and its work  are in place.  ,YES,NO,NO,NO,NO,YES,YES,YES
 INNOVATION_I04,INNOVATION_QL04,A policy framework for governance and funding of public research institutions and universities is in place. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 INNOVATION_I04,INNOVATION_QL04,The policy framework sets out clear rules for the governing boards of public research institutions and universities. ,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 INNOVATION_I04,INNOVATION_QL04,Adequate human and financial resources (mostly government-funded) are in place to ensure public research excellence and to fulfil the responsibilities of public research institutions and universities. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,YES
@@ -979,7 +979,7 @@ INNOVATION_I08,INNOVATION_QL08,"Technology institutes are operational and facili
 INNOVATION_I08,INNOVATION_QL08,"Science and innovation parks are operational and offer infrastructure and various support services (including technical trainings, advanced power supply and networking) to high-tech firms. ",NO,NOT_AVAILABLE,NO,YES,NO,NO,NO,YES
 INNOVATION_I08,INNOVATION_QL08,"The policy framework includes, beyond physical investments, value-added measures such as training, coaching, raising awareness and creating incentives for business-academia co-operation.",NO,NOT_AVAILABLE,NO,NO,YES,NO,YES,NO
 INNOVATION_I08,INNOVATION_QL08,The policy framework is governed by horizontal tools to facilitate institutional co-ordination across ministries and agencies concerned with institutional support for business-academia collaboration. ,NO,NOT_AVAILABLE,NO,NO,YES,NO,NO,YES
-INNOVATION_I08,INNOVATION_QL08,Cost-benefit analyses are carried out for all proposed “brick and mortar” infrastructure investments related to business-academia collaboration. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
+INNOVATION_I08,INNOVATION_QL08,Cost-benefit analyses are carried out for all proposed ‚Äúbrick and mortar‚Äù infrastructure investments related to business-academia collaboration. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 INNOVATION_I08,INNOVATION_QL08,Regular monitoring and evaluation activities of the strategic priorities related to providing institutional support for business-academia collaboration are in place. ,NO,NOT_AVAILABLE,NO,NO,NO,NO,NO,NO
 INNOVATION_I09,INNOVATION_QL09,"A policy framework addressing open science is in place.  
 *Not yet in place but under development",YES,NOT_AVAILABLE,YES*,NO,YES,YES,NO,YES
@@ -994,7 +994,7 @@ DIGITAL_I01,DIGITAL_QL01,"A national broadband development policy framework has 
 *  Draft Broadband Development Strategy 2023-2027 prepared but not adopted.",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I01,DIGITAL_QL01,"The policy framework is built on a comprehensive broadband infrastructure mapping, which is regularly updated.",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I01,DIGITAL_QL01,The policy framework includes specific measures to expand broadband access and increase household connectivity to 100Mbps.,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
-DIGITAL_I01,DIGITAL_QL01,The policy framework is broadly aligned with international connectivity agendas (such as the OECD Recommendation of the Council on Broadband Connectivity; the EU strategy for Connectivity and/or Digital Future priority agenda under European Commission’s Economic and Investment Plan for the Western Balkans).,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
+DIGITAL_I01,DIGITAL_QL01,The policy framework is broadly aligned with international connectivity agendas (such as the OECD Recommendation of the Council on Broadband Connectivity; the EU strategy for Connectivity and/or Digital Future priority agenda under European Commission‚Äôs Economic and Investment Plan for the Western Balkans).,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I01,DIGITAL_QL01,"The policy framework is being largely implemented according to the implementation timeline, with minor delays.",YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,YES,YES
 DIGITAL_I01,DIGITAL_QL01,The policy framework includes measures to assure the resilience of broadband infrastructure against natural disasters and other risks.,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,NO,YES
 DIGITAL_I01,DIGITAL_QL01,"The policy framework includes measures to encourage private sector investments in rolling out new broadband infrastructure (e.g. fibre, 5G).
@@ -1011,21 +1011,21 @@ DIGITAL_I02,DIGITAL_QL02,"The regulatory framework aims to: 1) simplify the regu
 DIGITAL_I02,DIGITAL_QL02,The regulatory framework: 1) ensures accessibility of communications regulations; and 2) allows key stakeholders and the public to take part in the drafting of regulatory proposals and analyses.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I02,DIGITAL_QL02,Indicators related to the conditions in the electronic communications sector are regularly collected and updated.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I02,DIGITAL_QL02,"An independent communications regulator has been established. It has clearly defined responsibilities and objectives along with adequate human and financial resources to undertake them.
-* The Regulator’s independence is either not adequately ensured or challenged.",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES*,YES*,YES
+* The Regulator‚Äôs independence is either not adequately ensured or challenged.",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES*,YES*,YES
 DIGITAL_I02,DIGITAL_QL02,The regulator is accountable to an oversight body. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I02,DIGITAL_QL02,Regulatory Impact Assessment is conducted in the early stages of formulation of new regulatory proposals.,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
-DIGITAL_I02,DIGITAL_QL02,An effective system for the review of regulations’ legality and procedural fairness and bodies issuing regulatory sanctions are in place.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
+DIGITAL_I02,DIGITAL_QL02,An effective system for the review of regulations‚Äô legality and procedural fairness and bodies issuing regulatory sanctions are in place.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I02,DIGITAL_QL02,"Reports on the activities and performance of the communications regulator are published regularly.
 *  Not consistently",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES,YES,YES
-DIGITAL_I02,DIGITAL_QL02,"There is evidence of advanced or full alignment with key pillars of the EU Electronic Communications Code, in particular for: 1) aligning voice termination rates across operators’ fixed/wireless networks and 2) updating relevant product and service markets within the electronic communications sector.
+DIGITAL_I02,DIGITAL_QL02,"There is evidence of advanced or full alignment with key pillars of the EU Electronic Communications Code, in particular for: 1) aligning voice termination rates across operators‚Äô fixed/wireless networks and 2) updating relevant product and service markets within the electronic communications sector.
 * Not fully implemented ",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,YES*
 DIGITAL_I02,DIGITAL_QL02,Systematic reviews of the stock of significant regulation against clearly defined policy goals are conducted and published.,NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,NO
-DIGITAL_I02,DIGITAL_QL02,"There is evidence of advanced or full alignment with key pillars of the EU Electronic Communications Code, in particular for: 1) creating a permit-exempt deployment regime to simplify and accelerate 5G network installations; 2) reducing the cost and increasing the speed of deployment of very high capacity networks (including fibre and 5G); 3) providing access to 5G radio spectrum and encouraging operator’s investments.
+DIGITAL_I02,DIGITAL_QL02,"There is evidence of advanced or full alignment with key pillars of the EU Electronic Communications Code, in particular for: 1) creating a permit-exempt deployment regime to simplify and accelerate 5G network installations; 2) reducing the cost and increasing the speed of deployment of very high capacity networks (including fibre and 5G); 3) providing access to 5G radio spectrum and encouraging operator‚Äôs investments.
 * Limited alignment in either count (1), count (2) or (3) or all of the aforementioned",YES*,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES,YES*,NO
 DIGITAL_I02,DIGITAL_QL02,There is evidence of active cooperation with other communications regulatory authorities on cross-border regulations.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I03,DIGITAL_QL03,"A policy framework aiming to promote the (re)use and sharing of data by the public and private sector to generate positive policy and societal outcomes has been adopted. 
 *In progress",YES,YES,YES,YES,YES,YES,YES*,YES
-DIGITAL_I03,DIGITAL_QL03,"The policy framework’s objectives are aligned with the socio-economic context and 1) provide clear policy governance for government body coordination; 2) were developed with inputs from stakeholders including the public and private sectors, and civil society. ",YES,NO,NO,NO,YES,YES,YES,YES
+DIGITAL_I03,DIGITAL_QL03,"The policy framework‚Äôs objectives are aligned with the socio-economic context and 1) provide clear policy governance for government body coordination; 2) were developed with inputs from stakeholders including the public and private sectors, and civil society. ",YES,NO,NO,NO,YES,YES,YES,YES
 DIGITAL_I03,DIGITAL_QL03,Indicators on data accessibility are regularly collected and updated.,YES,NO,NO,NO,NO,NO,YES,YES
 DIGITAL_I03,DIGITAL_QL03,"The policy framework is comprehensive and includes objectives to establish: 1) access and re-use of open government data, 2) data governance within and across borders, 3) data sharing across the public sector, 4) data openness of public institutions, 5) access to scientific data, 6) data spaces or sharing platforms in different sectors (e.g. health, environment, culture).",YES,NO,NO,NO,YES,YES,YES,YES
 DIGITAL_I03,DIGITAL_QL03,An effective system for reviewing and ensuring the legality and fairness of data regulations is in place.,YES,NO,NO,NO,YES,YES,YES,YES
@@ -1109,7 +1109,7 @@ DIGITAL_I08,DIGITAL_QL08,The policy framework also contains measures to use digi
 DIGITAL_I08,DIGITAL_QL08,Regulations and/or guidelines that limit the energy use of digital technologies are in place and reporting requirements have been adopted.,NO,NO,NO,NO,NO,NO,NO,NO
 DIGITAL_I08,DIGITAL_QL08,Businesses can benefit from trainings and/or financial support schemes to limit the energy consumption of their digital technologies.,NO,NO,NO,NO,NO,NO,NO,NO
 DIGITAL_I08,DIGITAL_QL08,Research and innovation programmes exist which support the design and proliferation of digital technology solutions for the green transition.,NO,NO,NO,NO,NO,NO,YES,NO
-DIGITAL_I08,DIGITAL_QL08,The policy framework’s implementation is being regularly monitored and evaluated.,NO,NO,NO,NO,NO,NO,NO,NO
+DIGITAL_I08,DIGITAL_QL08,The policy framework‚Äôs implementation is being regularly monitored and evaluated.,NO,NO,NO,NO,NO,NO,NO,NO
 DIGITAL_I08,DIGITAL_QL08,Results of monitoring and/or evaluation analysis are publicly available and are being used to adjust policy implementation (if necessary) and inform future policies.,NO,NO,NO,NO,NO,NO,NO,NO
 DIGITAL_I09,DIGITAL_QL09,"A policy framework and relevant legislation for online privacy and data protection have been adopted.
 * Partly. ",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES*,YES*,YES
@@ -1120,12 +1120,12 @@ DIGITAL_I09,DIGITAL_QL09,"The policy framework provides for reasonable means for
 * Sanctions are pending and self-regulation is missing.",YES*,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I09,DIGITAL_QL09,"The framework considers the role of actors other than data controllers, in a manner appropriate to their individual role and ensures that there is no unfair discrimination against data subjects.",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I09,DIGITAL_QL09,"The data protection authority has adequate human, technical and financial resources to ensure its transparency and independence. ",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,YES
-DIGITAL_I09,DIGITAL_QL09,"There is evidence of an active implementation of the data protection authority’s work programme, or other policies, aiming to raise awareness and develop skills among citizens, businesses and the public sector related to data protection.
+DIGITAL_I09,DIGITAL_QL09,"There is evidence of an active implementation of the data protection authority‚Äôs work programme, or other policies, aiming to raise awareness and develop skills among citizens, businesses and the public sector related to data protection.
 * Limited evidence of the implementation of awareness-raising activities .",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,YES,YES
 DIGITAL_I09,DIGITAL_QL09,"The legal framework is fully aligned with EU privacy and data protection legislation, namely the General Data Protection Regulation and ePrivacy Directive. 
 *Not fully. ",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,NO,YES*
 DIGITAL_I09,DIGITAL_QL09,"The data protection authority actively engages in international co-operation and exchange of good practices, with a goal of reaching international standards and good practices for privacy and data protection.
-* The Agency’s capacity to engage in international co-operation is limited due to the absence of relevant resources.",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
+* The Agency‚Äôs capacity to engage in international co-operation is limited due to the absence of relevant resources.",YES,YES*,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I09,DIGITAL_QL09,Key indicators on privacy and data protection are regularly monitored and available to the wider public online.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 DIGITAL_I09,DIGITAL_QL09,"The framework is being regularly monitored and evaluated, and reports on the activity of the data protection authority are accessible to the public. Results of monitoring and evaluation analysis are being used for the improvement of future policies.
 * Partially developed. ",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES*,NO,YES*
@@ -1147,7 +1147,7 @@ DIGITAL_I10,DIGITAL_QL10,"The consumer protection authority is active in co-oper
 *Limited evidence of joint actions. ",YES,NO,NO,NO,YES,YES*,YES,NO
 DIGITAL_I11,DIGITAL_QL11,"A cybersecurity policy and legal framework is in place.
 *Under development. ",YES,YES*,YES*,YES*,YES,YES,YES*,YES
-DIGITAL_I11,DIGITAL_QL11,"The framework is comprehensive and promotes managing digital security risk of the government’s own activities, mitigating cybercrime and the establishment of Computer Security Incident Response Teams in the public sector, as well as private sector counterparts. ",YES,YES,YES,YES,YES,YES,YES,YES
+DIGITAL_I11,DIGITAL_QL11,"The framework is comprehensive and promotes managing digital security risk of the government‚Äôs own activities, mitigating cybercrime and the establishment of Computer Security Incident Response Teams in the public sector, as well as private sector counterparts. ",YES,YES,YES,YES,YES,YES,YES,YES
 DIGITAL_I11,DIGITAL_QL11,"Computer Security Incident Response Teams have been established in the public and private sector and co-operate with international counterparts.
 *Partly. ",YES,YES*,YES*,NO,YES,YES,YES,YES
 DIGITAL_I11,DIGITAL_QL11,"Good co-operation between the national Computer Security Incident Response Team and other public and private sector Computer Security Incident Response Teams is ongoing.
@@ -1184,7 +1184,7 @@ TRANSPORT_I01,TRANSPORT_QL01,"The implementation of the transport vision documen
 TRANSPORT_I02,TRANSPORT_QL02,"A consistent framework for generating transport project options, selecting and prioritising them has been adopted. ",YES,YES,YES,YES,YES,YES,YES,YES
 TRANSPORT_I02,TRANSPORT_QL02,"The project selection framework includes a clear methodology for decision-making, and takes key factors into account, such as physical criteria (ex. Telematics), non-physical criteria (ex. Sustainability, safety) and the priorities set by the overall transport vision (see QL 1.1). ",YES,YES,YES,YES,NO,YES,YES,YES
 TRANSPORT_I02,TRANSPORT_QL02,"The project selection framework takes into account impact assessments of environmental, accessibility, connectivity, safety, economic, resilience, distributional / equity and social impacts to some degree (at least half of these impacts are assessed).  ",YES,NO,NO,NO,NO,YES,YES,YES
-TRANSPORT_I02,TRANSPORT_QL02,The project selection framework takes into account impact assessments of all of the above criteria . ,NO,NO,NO,NO,NO,YES,NO,NO
+TRANSPORT_I02,TRANSPORT_QL02,The project selection framework takes into account impact assessments of all of the above criteria¬†. ,NO,NO,NO,NO,NO,YES,NO,NO
 TRANSPORT_I02,TRANSPORT_QL02,"The project selection and prioritisation process applies a cost-benefit assessment. 
 *Not fully assessed",YES,NO,NO,NO,NO,YES*,NO,YES
 TRANSPORT_I02,TRANSPORT_QL02,The project selection and prioritisation process is applied to all transport infrastructure projects. ,YES,NO,NO,NO,NO,YES,YES,NO
@@ -1196,7 +1196,7 @@ TRANSPORT_I02,TRANSPORT_QL02,The framework has been revised based on evaluation 
 TRANSPORT_I03,TRANSPORT_QL03,A procurement framework for implementing transport projects exists. ,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRANSPORT_I03,TRANSPORT_QL03,"Alternative procurement methods (concession contracts, public-private partnerships, etc.) are considered at the level of individual projects, as part of individual procurement strategies per project. ",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,NO,YES
 TRANSPORT_I03,TRANSPORT_QL03,"Alternative procurement methods are considered as part of a cross-modal procurement strategy, involving several transport modes. ",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,NO
-TRANSPORT_I03,TRANSPORT_QL03,Relevant bodies (e.g. national audit offices) have been given oversight roles in the procurement and monitoring of projects’ implementation. ,YES,YES,YES,YES,YES,YES,NO,YES
+TRANSPORT_I03,TRANSPORT_QL03,Relevant bodies (e.g. national audit offices) have been given oversight roles in the procurement and monitoring of projects‚Äô implementation. ,YES,YES,YES,YES,YES,YES,NO,YES
 TRANSPORT_I03,TRANSPORT_QL03,"The procurement framework covers all modes of transport (road, maritime aviation, rail)",NO,YES,NOT_AVAILABLE,NOT_AVAILABLE,YES,YES,YES,YES
 TRANSPORT_I03,TRANSPORT_QL03,The procurement framework is consistently applied to all transport projects and it clearly defines in what cases the framework does not need to be applied.,YES,YES,YES,YES,YES,YES,YES,YES
 TRANSPORT_I03,TRANSPORT_QL03,The procurement framework includes measures that prevent corruption in the procurement process.,YES,YES,NOT_AVAILABLE,NOT_AVAILABLE,NO,YES,NO,YES
@@ -1211,7 +1211,7 @@ TRANSPORT_I04,TRANSPORT_QL04,"The condition and quality of transport infrastruct
 *For most types of transport infrastructure. ",YES*,NO,NO,NO,YES,NO,NO,YES*
 TRANSPORT_I04,TRANSPORT_QL04,The asset management systems are used consistently to inform investment and maintenance strategies for transport infrastructure. ,YES,NO,NO,NO,NO,NO,NO,NO
 TRANSPORT_I04,TRANSPORT_QL04,The alignment of asset management policies with the priorities outlined by the Recommendations of the Preparation of Maintenance Plans 2018-2022 for Road/Rail Trans European Transport Network indicative extensions to the Western Balkans is in progress. ,YES,NO,NO,NO,NO,NO,YES,NO
-TRANSPORT_I04,TRANSPORT_QL04,"A monitoring body for efficient road maintenance has been established, as encouraged by the Transport Community Permanent Secretariat’s Action Plan for establishing a functioning and efficient road maintenance system. ",NO,NO,NO,NO,NO,NO,NO,YES
+TRANSPORT_I04,TRANSPORT_QL04,"A monitoring body for efficient road maintenance has been established, as encouraged by the Transport Community Permanent Secretariat‚Äôs Action Plan for establishing a functioning and efficient road maintenance system. ",NO,NO,NO,NO,NO,NO,NO,YES
 TRANSPORT_I04,TRANSPORT_QL04,Asset management strategies evolve over-time in response to the outcomes of monitoring and evaluation.  ,YES,NO,NO,NO,YES,NO,YES,YES
 TRANSPORT_I04,TRANSPORT_QL04,Data on the value of assets and cost of not maintaining the assets are used to re-evaluate asset management strategies.,YES,NO,NO,NO,NO,NO,YES,NO
 TRANSPORT_I04,TRANSPORT_QL04,"Asset management strategies are strongly aligned with, and activities reflect the priorities outlined by the Recommendations of the Preparation of Maintenance Plans 2018-2022 for Road/Rail Trans European Transport Network indicative extensions to the Western Balkans. ",NO,NO,NO,NO,NO,NO,NO,YES
@@ -1225,9 +1225,9 @@ TRANSPORT_I05,TRANSPORT_QL05,"The Single European Sky legislation has been fully
 *Only SES I has been fully transposed.",NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES,YES*,YES
 TRANSPORT_I05,TRANSPORT_QL05,"Regional Action Plans for road, rail and waterborne transport developed by the Transport Community Permanent Secretariat are being implemented.  
 *For some modes only. ",YES,YES,YES,NO,YES*,YES,YES,YES
-TRANSPORT_I05,TRANSPORT_QL05,Implementation of the Regional Action Plans is well advanced – at least one of them has been fully implemented and all other are advancing without major delays.  ,NO,NO,NO,NO,NO,NO,NO,NO
-TRANSPORT_I05,TRANSPORT_QL05,Market opening has been approved in the rail sector – the oversight body is active in ensuring transparency and non-discrimination of market actors. ,YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
-TRANSPORT_I05,TRANSPORT_QL05,The EU Airport Charges Directive has been transposed and implemented – airport charges are set and monitored based on transparency principles established by EU legislation. ,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,NO,YES
+TRANSPORT_I05,TRANSPORT_QL05,Implementation of the Regional Action Plans is well advanced ‚Äì at least one of them has been fully implemented and all other are advancing without major delays.  ,NO,NO,NO,NO,NO,NO,NO,NO
+TRANSPORT_I05,TRANSPORT_QL05,Market opening has been approved in the rail sector ‚Äì the oversight body is active in ensuring transparency and non-discrimination of market actors. ,YES,NOT_AVAILABLE,NO,NO,YES,YES,YES,YES
+TRANSPORT_I05,TRANSPORT_QL05,The EU Airport Charges Directive has been transposed and implemented ‚Äì airport charges are set and monitored based on transparency principles established by EU legislation. ,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES,NO,NO,YES
 TRANSPORT_I05,TRANSPORT_QL05,The implementation of the Single European Sky is regularly monitored and adjusted accordingly. Regulatory bodies monitor the air transport market and airport performance.  ,YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,YES,YES,NO
 TRANSPORT_I05,TRANSPORT_QL05,The economy is part of a functional airspace block and fully integrated into the Single European Sky system.  ,NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,NO
 TRANSPORT_I05,TRANSPORT_QL05,Monitoring and evaluation of the impact of transport market reforms is regularly conducted and informs future policy making with regard to transport markets. ,YES,NO,NO,NO,NO,NO,NO,YES
@@ -1242,7 +1242,7 @@ TRANSPORT_I06,TRANSPORT_QL06,Bilateral agreements for the improvement of border/
 TRANSPORT_I06,TRANSPORT_QL06,The Transport Facilitation Action Plan has been fully implemented according to the implementation timeline in the parts concerning the economy. ,NO,NO,NOT_AVAILABLE,NOT_AVAILABLE,NO,NO,NO,NO
 TRANSPORT_I07,TRANSPORT_QL07,"A strategy or policy framework to promote the use of combined transport has been adopted. 
 *Drafted but not yet adopted.",YES*,NO,NO,NO,YES,YES,YES,NO
-TRANSPORT_I07,TRANSPORT_QL07,"The strategy’s development process included a wide-ranging consultation process, including with the private sector, and key market participants and infrastructure operators.",YES,NO,NO,NO,YES,YES,YES,NO
+TRANSPORT_I07,TRANSPORT_QL07,"The strategy‚Äôs development process included a wide-ranging consultation process, including with the private sector, and key market participants and infrastructure operators.",YES,NO,NO,NO,YES,YES,YES,NO
 TRANSPORT_I07,TRANSPORT_QL07,The combined transport strategy is closely aligned with the relevant EU acquis (such as the Combined Transport Directive).,NO,NO,NO,NO,YES,YES,NO,NO
 TRANSPORT_I07,TRANSPORT_QL07,"The combined transport strategy contains at least some of the following goals: developing co-modal solutions based on a corridor approach, decreasing transportation costs, enhancing interoperability, improving the quality of trade-related infrastructure and increasing the competence and quality of logistics services, timeliness of shipments. 
 *No policy framework, but individual policy initiatives exist.",YES,NO,NO,NO,YES,YES,YES,YES*
@@ -1273,7 +1273,7 @@ TRANSPORT_I09,TRANSPORT_QL09,The EU Alternative Fuels Infrastructure Directive (
 TRANSPORT_I09,TRANSPORT_QL09,"EU regulations on emissions reductions targets for new cars, vans and heavy-duty vehicles have been transposed and are being implemented. ",NO,NO,NO,NO,NO,NO,NO,NO
 TRANSPORT_I09,TRANSPORT_QL09,Improving the resilience of the transport system and assessing its vulnerability to climate change are key objectives of transport policies and have been integrated into the relevant frameworks and legislation. ,YES,NO,NO,NO,YES,YES,YES,YES
 TRANSPORT_I09,TRANSPORT_QL09,"A monitoring body to monitor the implementation of the action plan for improving road network resilience, developed by the Transport Community, has been established and is operational.",YES,NO,NO,NO,NO,NO,NO,NO
-TRANSPORT_I09,TRANSPORT_QL09,"Data collection on the environmental sustainability of the transport sector is comprehensive and robust (ex. transport’s contributions to greenhouse gas emissions, average age of motorised vehicles, etc.) and data is being regularly updated. ",YES,NO,NO,NO,NO,NO,NO,YES
+TRANSPORT_I09,TRANSPORT_QL09,"Data collection on the environmental sustainability of the transport sector is comprehensive and robust (ex. transport‚Äôs contributions to greenhouse gas emissions, average age of motorised vehicles, etc.) and data is being regularly updated. ",YES,NO,NO,NO,NO,NO,NO,YES
 TRANSPORT_I09,TRANSPORT_QL09,Policies to make the transport sector more environmentally sustainable are regularly monitored and evaluated.,YES,NO,NO,NO,NO,NO,NO,YES
 TRANSPORT_I09,TRANSPORT_QL09,Monitoring and evaluation results are informing the future design of policies for environmental sustainability in transport.,YES,NO,NO,NO,NO,NO,NO,YES
 TRANSPORT_I10,TRANSPORT_QL10,"A road safety strategy has been adopted or policies to promote road safety exist, but there is no standalone road safety strategy or dedicated policy framework. 
@@ -1287,7 +1287,7 @@ TRANSPORT_I10,TRANSPORT_QL10,"The Regional Road Safety Action Plan, developed by
 TRANSPORT_I10,TRANSPORT_QL10,"Data on transport safety is collected, regularly updated and comprehensive. 
 *Only for road transport",YES*,NO,YES,NO,YES,YES,YES,YES
 TRANSPORT_I10,TRANSPORT_QL10,The above-mentioned data is being collected for all transport modes. ,NO,NO,NO,NO,NO,NO,NO,NO
-TRANSPORT_I10,TRANSPORT_QL10,Policy measures to make the transport system more just and inclusive are being implemented – advanced implementation of the related policy framework or individual policy initiatives.  ,YES,YES,YES,YES,YES,NO,NO,NO
+TRANSPORT_I10,TRANSPORT_QL10,Policy measures to make the transport system more just and inclusive are being implemented ‚Äì advanced implementation of the related policy framework or individual policy initiatives.  ,YES,YES,YES,YES,YES,NO,NO,NO
 TRANSPORT_I10,TRANSPORT_QL10,"Data on transport equity, ease of access and fairness of the transport system are being collected and regularly updated. ",NO,NO,NO,NO,NO,NO,NO,NO
 TRANSPORT_I10,TRANSPORT_QL10,The Regional Road Safety Action Plan has been fully implemented and policies are being monitored and evaluated to further improve road safety.,NO,NO,NO,NO,NO,NO,NO,NO
 TRANSPORT_I10,TRANSPORT_QL10,Evaluations of transport safety policies (including for modes other than road) are being used to improve future policies. ,YES,NO,NO,NO,YES,YES,NO,YES
@@ -1310,11 +1310,11 @@ ENERGY_I02,ENERGY_QL02,"The policy, legal, and institutional framework to establ
 ENERGY_I02,ENERGY_QL02,An energy regulator has been established and is operational. ,YES,YES,YES,YES,YES,YES,YES,YES
 ENERGY_I02,ENERGY_QL02,The legal framework establishing the energy regulator is compliant with the EU and Energy Community acquis ,YES,NO,NO,NO,YES,YES,YES,YES
 ENERGY_I02,ENERGY_QL02,Mechanisms are in place to assure an effective co-ordination between the regulator and other relevant government bodies.,YES,NO,NO,NO,YES,YES,YES,YES
-ENERGY_I02,ENERGY_QL02,The energy regulator’s activities are carried out transparently and regular reports on its functioning and its decisions are published timely and publicly available.,YES,YES,YES,YES,YES,YES,YES,YES
+ENERGY_I02,ENERGY_QL02,The energy regulator‚Äôs activities are carried out transparently and regular reports on its functioning and its decisions are published timely and publicly available.,YES,YES,YES,YES,YES,YES,YES,YES
 ENERGY_I02,ENERGY_QL02,"No infringement cases have been made (ex. within the framework of the Energy Community), related to the regulatory authority. ",YES,YES,YES,YES,YES,YES,YES,YES
 ENERGY_I02,ENERGY_QL02,The energy regulator has adequate financial and human resources to fulfil its work plan and objectives. ,YES,YES,YES,YES,NO,NO,YES,NO
-ENERGY_I02,ENERGY_QL02,The energy regulator’s staff have access to regular capacity building opportunities and salaries are competitive with comparable private sector positions.,YES,YES,YES,YES,NO,YES,YES,NO
-ENERGY_I02,ENERGY_QL02,The regulator’s activity is regularly monitored based on inputs and outputs and results are evaluated based on the regulator’s objectives.,YES,NO,NO,NO,YES,YES,YES,YES
+ENERGY_I02,ENERGY_QL02,The energy regulator‚Äôs staff have access to regular capacity building opportunities and salaries are competitive with comparable private sector positions.,YES,YES,YES,YES,NO,YES,YES,NO
+ENERGY_I02,ENERGY_QL02,The regulator‚Äôs activity is regularly monitored based on inputs and outputs and results are evaluated based on the regulator‚Äôs objectives.,YES,NO,NO,NO,YES,YES,YES,YES
 ENERGY_I02,ENERGY_QL02,"The regulatory authority actively participates, as an observer, in the work of the EU Agency for Co-operation of Energy Regulators. ",NO,NO,NO,NO,NO,YES,YES,NO
 ENERGY_I02,ENERGY_QL02,"Salaries that the regulator pays its staff are above the industry level, allowing it to easily attract talent. ",NO,NO,NO,NO,NO,NO,NO,NO
 ENERGY_I02,ENERGY_QL02,The regulator is politically and financially independent and has the power to launch ex officio investigations.,YES,NO,NO,NO,YES,YES,YES,YES
@@ -1363,7 +1363,7 @@ ENERGY_I06,ENERGY_QL06,All renewable energy support schemes are designed to have
 ENERGY_I06,ENERGY_QL06,The policy framework acknowledges and encourages the development of decentralised renewable generation and the role of prosumers. ,YES,YES,YES,YES,YES,NO,YES,YES
 ENERGY_I06,ENERGY_QL06,Information and data on key renewable energy indicators is regularly updated and accessible to the wider public.,YES,YES,NO,NO,YES,NO,YES,YES
 ENERGY_I06,ENERGY_QL06,The legal framework for renewable energy is fully compliant with the requirements from the EU and Energy Community acquis.,NO,NO,NO,NO,NO,NO,NO,NO
-ENERGY_I06,ENERGY_QL06,The implementation of the policy framework is advancing – at least 50% of planned activities have been implemented on schedule. ,YES,NO,NO,NO,YES,NO,NO,NO
+ENERGY_I06,ENERGY_QL06,The implementation of the policy framework is advancing ‚Äì at least 50% of planned activities have been implemented on schedule. ,YES,NO,NO,NO,YES,NO,NO,NO
 ENERGY_I06,ENERGY_QL06,Regular monitoring and evaluation activities assessing the effectiveness of renewable energy policy are conducted.,YES,NO,NO,NO,YES,YES,YES,NO
 ENERGY_I06,ENERGY_QL06,Results of monitoring and evaluation analysis are being used for the improvement of future renewable energy policies.,YES,NO,NO,NO,YES,NO,YES,NO
 ENERGY_I07,ENERGY_QL07,"A policy framework with the goal of improving energy efficiency is in place.
@@ -1447,7 +1447,7 @@ ENVIRONMENT_I02,ENVIRONMENT_QL02,Indicators related to climate change adaptation
 ENVIRONMENT_I02,ENVIRONMENT_QL02,"Good institutional co-ordination is in place between national government bodies which design policy and implement climate adaptation programmes (such as through a designated working group).
 *Planned",YES,YES*,YES,YES,YES,YES,YES*,YES
 ENVIRONMENT_I02,ENVIRONMENT_QL02,Some climate change adaptation programmes and awareness-raising activities have been conducted.,YES,YES,NO,NO,NO,YES,NO,YES
-ENVIRONMENT_I02,ENVIRONMENT_QL02,"Climate change adaptation measures are integrated into existingplans and processes (such as water management, land management, spatial planning, ecosystem, and biodiversity protection ).",YES*,NO,NO,NO,NO,NO,NO,YES*
+ENVIRONMENT_I02,ENVIRONMENT_QL02,"Climate change adaptation measures are integrated into existingplans and processes (such as water management, land management, spatial planning, ecosystem, and biodiversity protection¬†).",YES*,NO,NO,NO,NO,NO,NO,YES*
 ENVIRONMENT_I02,ENVIRONMENT_QL02,"A disaster risk reduction assessment has been conducted at the national level and includes major climate-related risks.
 *Partly ",YES,NO,NOT_AVAILABLE,NOT_AVAILABLE,YES*,YES,NO,YES
 ENVIRONMENT_I02,ENVIRONMENT_QL02,Disaster risk reduction assessments have also been conducted at local levels. ,YES,NO,NO,NO,NO,YES,NO,YES
@@ -1603,7 +1603,7 @@ AGRICULTURE_I01,AGRICULTURE_QL01,"Transportation, electricity and ICT developmen
 * Only electricity and ICT priorities and infrastructure fully address needs",NO,NO,NO,NO,NO,NO,YES*,NO
 AGRICULTURE_I02,AGRICULTURE_QL02,"Policy framework addressing rural livelihoods is in place.
 *Under development ",YES,YES*,YES,YES*,YES,YES,YES,YES
-AGRICULTURE_I02,AGRICULTURE_QL02,"Official definitions of “rural area” and “de-favourised rural areas” are available and applied.
+AGRICULTURE_I02,AGRICULTURE_QL02,"Official definitions of ‚Äúrural area‚Äù and ‚Äúde-favourised rural areas‚Äù are available and applied.
 * Only has definition for one of these concepts",YES,NO,YES,YES*,YES,YES*,YES,YES*
 AGRICULTURE_I02,AGRICULTURE_QL02,"Rural livelihoods improvement and development is actively promoted through several (two or more) ad-hoc support programmes in the areas of economic development, tax reduction, social security, education, health and agritourism. 
 * Has only one support programme",YES,NO,YES*,YES,YES,YES,YES,YES
@@ -1655,7 +1655,7 @@ AGRICULTURE_I05,AGRICULTURE_QL05,Instruments fostering risk management in the ag
 AGRICULTURE_I05,AGRICULTURE_QL05,"Specific provisions or initiatives exist that offer support to farmers in the case of external shocks, such as natural disasters or the consequences of the Ukraine war. 
 * Only has provisions in the case of natural disasters",YES,NOT_AVAILABLE,YES,YES,YES*,YES,YES,YES*
 AGRICULTURE_I05,AGRICULTURE_QL05,There is a formal consultation process with stakeholders regarding producer support instruments.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
-AGRICULTURE_I05,AGRICULTURE_QL05,"Stakeholders’ feedback is incorporated into policy design, development and implementation
+AGRICULTURE_I05,AGRICULTURE_QL05,"Stakeholders‚Äô feedback is incorporated into policy design, development and implementation
 * Only in design and development",YES*,NOT_AVAILABLE,YES,YES*,YES,NO,YES*,YES
 AGRICULTURE_I05,AGRICULTURE_QL05,Annual monitoring activities and impact assessments are conducted.,YES,NOT_AVAILABLE,YES,YES,YES,YES,YES,YES
 AGRICULTURE_I05,AGRICULTURE_QL05,"Support policies are fully aligned with the EU Common Agricultural Policy (EU CAP).
@@ -1668,12 +1668,12 @@ AGRICULTURE_I06,AGRICULTURE_QL06,"There are government programmes that directly 
 AGRICULTURE_I06,AGRICULTURE_QL06,There is a formal consultation process with stakeholders regarding proposed revisions to the regulatory framework addressing RITTD,YES,NO,NO,YES,YES,NO,YES,YES
 AGRICULTURE_I06,AGRICULTURE_QL06,Public advisory services have been established to promote the transfer of knowledge and innovation to farmers. ,YES,YES,YES,YES,YES,YES,YES,YES
 AGRICULTURE_I06,AGRICULTURE_QL06,Agriculture extension and advisory services are available to farmers.,YES,YES,YES,YES,YES,YES,YES,YES
-AGRICULTURE_I06,AGRICULTURE_QL06,Specific programmes to promote farm and agrifood firms’ adoption of innovations and knowledge transfer are in place.,YES,NO,NO,NO,YES,NO,NO,YES
+AGRICULTURE_I06,AGRICULTURE_QL06,Specific programmes to promote farm and agrifood firms‚Äô adoption of innovations and knowledge transfer are in place.,YES,NO,NO,NO,YES,NO,NO,YES
 AGRICULTURE_I06,AGRICULTURE_QL06,"Agriculture Knowledge and Innovation System (AKIS) is in place. 
 * Under development",YES*,NO,NO,NO,NO,NO,YES*,YES
 AGRICULTURE_I06,AGRICULTURE_QL06,"Impact assessments are regularly conducted on the policy framework by an independent body.
 * Not conducted by an independent body",YES,NO,NO,NO,NO,NO,NO,YES*
-AGRICULTURE_I06,AGRICULTURE_QL06,"Specific programmes that promote farms’ adoption of innovations and knowledge transfer related to climate change are in place. 
+AGRICULTURE_I06,AGRICULTURE_QL06,"Specific programmes that promote farms‚Äô adoption of innovations and knowledge transfer related to climate change are in place. 
 *Partly",YES,YES*,NO,NO,NO,YES,NO,YES
 AGRICULTURE_I07,AGRICULTURE_QL07,"Relevant agencies such as food safety agency, national plant protection office or veterinary authority are operational.",YES,YES,YES,YES,YES,YES,YES,YES
 AGRICULTURE_I07,AGRICULTURE_QL07,"Policy framework addressing food safety, animal health and plant health is in place.
@@ -1685,9 +1685,9 @@ AGRICULTURE_I07,AGRICULTURE_QL07,"Risk assessment and risk management methodolog
 * Under development",YES,YES*,YES,YES,YES,YES,YES,YES
 AGRICULTURE_I07,AGRICULTURE_QL07,"Progress has made since 2020 in updating information systems for animal diseases and plant pests.
 *Partially",YES*,YES*,NO,YES,YES,YES,YES*,YES*
-AGRICULTURE_I07,AGRICULTURE_QL07,"Adequate human and financial resources support the government’s ability to implement food safety, animal and plant health measures.
+AGRICULTURE_I07,AGRICULTURE_QL07,"Adequate human and financial resources support the government‚Äôs ability to implement food safety, animal and plant health measures.
 * There are adequate financial resources but insufficient human resources",NO,YES*,NO,NO,YES*,YES,NO,YES*
-AGRICULTURE_I07,AGRICULTURE_QL07,"There is an assessment of the government’s capacity to implement food safety, animal and plant health/SPS regulations and standards.",YES,YES,NO,YES,NO,YES,YES,NO
+AGRICULTURE_I07,AGRICULTURE_QL07,"There is an assessment of the government‚Äôs capacity to implement food safety, animal and plant health/SPS regulations and standards.",YES,YES,NO,YES,NO,YES,YES,NO
 AGRICULTURE_I07,AGRICULTURE_QL07,"A laboratory network for food safety, veterinary, and phytosanitary is established.",YES,NO,NO,NO,NO,YES,YES,YES
 AGRICULTURE_I07,AGRICULTURE_QL07,The inspection control policies follow a risk-based approach.,YES,NO,NO,NO,YES,YES,YES,YES
 AGRICULTURE_I07,AGRICULTURE_QL07,Regular evaluation of the policy framework is conducted.,YES,YES,NO,YES,NO,YES,YES,YES
@@ -1722,7 +1722,7 @@ TOURISM_I01,TOURISM_QL01,"Regular monitoring and independent evaluation of touri
 *Under development ",YES,NO,YES,YES*,NO,YES,YES,NO
 TOURISM_I01,TOURISM_QL01,Regular monitoring and independent evaluation of the tourism governance framework is in place.,YES,NO,YES,NO,YES,YES,NO,NO
 TOURISM_I02,TOURISM_QL02,Tourism governance framework promoting vertical cooperation from national to destination level is operational.,NO,NO,NO,NO,YES,YES,NO,YES
-TOURISM_I02,TOURISM_QL02,Local communities are involved in tourism policies’ development and implementation.,YES,NO,YES,YES,YES,YES,NO,YES
+TOURISM_I02,TOURISM_QL02,Local communities are involved in tourism policies‚Äô development and implementation.,YES,NO,YES,YES,YES,YES,NO,YES
 TOURISM_I02,TOURISM_QL02,Local tourism strategies are aligned with the national one.,YES,NO,YES,YES,YES,YES,YES,YES
 TOURISM_I02,TOURISM_QL02,"Local communities have established governance structure for tourism development that involves private stakeholders and non-governmental organisations.
 *Partly
@@ -1781,7 +1781,7 @@ TOURISM_I07,TOURISM_QL07,"The economy promotes the opening-up of the labour mark
 TOURISM_I07,TOURISM_QL07,"A formal platform for cooperation between the tourism industry, academia, and other stakeholders is established.",YES,NOT_AVAILABLE,NO,YES,YES,YES,YES,NO
 TOURISM_I07,TOURISM_QL07,"Tourism HR framework is in the process of implementation, with effective private-sector cooperation.
 *Pending",YES,NOT_AVAILABLE,NO,YES,YES,YES*,NO,NO
-TOURISM_I07,TOURISM_QL07,VET and higher education curricula are aligned with the tourism industry’s needs.,YES,NOT_AVAILABLE,YES,NO,YES,YES,NO,YES
+TOURISM_I07,TOURISM_QL07,VET and higher education curricula are aligned with the tourism industry‚Äôs needs.,YES,NOT_AVAILABLE,YES,NO,YES,YES,NO,YES
 TOURISM_I07,TOURISM_QL07,"Regular monitoring and evaluation for the VET and higher education system is in place.
 *Partly",YES,NOT_AVAILABLE,NO,YES*,NO,NO,YES,NO
 TOURISM_I07,TOURISM_QL07,Regional initiatives for improving the VET and higher education framework are in place.,NO,NOT_AVAILABLE,NO,NO,YES,NO,YES,YES
